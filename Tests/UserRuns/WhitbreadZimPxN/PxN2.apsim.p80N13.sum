@@ -431,19 +431,19 @@ Title                  = p80N13
 30 November 1975(Day of year=334), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =   0.00
+     		Stover N Conc =   0.00 		 Extractable SW =   2.23
 3 December 1975(Day of year=337), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
      		Stover N Conc =   0.00 		 Extractable SW =  11.38
 21 December 1975(Day of year=355), Maize: 
      Stage 4 EndOfJuvenile  DAS = 22
-     		Biomass       =  10.53 		 LAI            =   0.12
+     		Biomass       =  10.47 		 LAI            =   0.12
      		Stover N Conc =   0.23 		 Extractable SW =  59.04
 23 December 1975(Day of year=357), Maize: 
      Stage 5 FloralInitiation  DAS = 24
-     		Biomass       =  14.35 		 LAI            =   0.15
-     		Stover N Conc =   0.31 		 Extractable SW =  65.97
+     		Biomass       =  14.26 		 LAI            =   0.15
+     		Stover N Conc =   0.31 		 Extractable SW =  65.98
 10 January 1976(Day of year=10), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 10 January 1976(Day of year=10), Fertiliser: 
@@ -453,70 +453,70 @@ Title                  = p80N13
                                          added at depth    5.00 (layer   1)
 8 February 1976(Day of year=39), Maize: 
      Stage 6 FlagLeaf  DAS = 71
-     		Biomass       = 562.86 		 LAI            =   1.79
-     		Stover N Conc =   3.14 		 Extractable SW =  97.33
+     		Biomass       = 521.49 		 LAI            =   1.68
+     		Stover N Conc =   2.80 		 Extractable SW = 102.82
 9 February 1976(Day of year=40), Maize: 
      Stage 7 Flowering  DAS = 72
-     		Biomass       = 580.03 		 LAI            =   1.79
-     		Stover N Conc =   3.17 		 Extractable SW =  97.89
+     		Biomass       = 534.58 		 LAI            =   1.66
+     		Stover N Conc =   2.82 		 Extractable SW = 103.88
 23 February 1976(Day of year=54), Maize: 
      Stage 8 StartGrainFill  DAS = 86
-     		Biomass       = 742.27 		 LAI            =   1.76
-     		Stover N Conc =   3.43 		 Extractable SW = 105.03
+     		Biomass       = 660.84 		 LAI            =   1.66
+     		Stover N Conc =   3.08 		 Extractable SW = 107.47
 5 April 1976(Day of year=96), Maize: 
      Stage 9 EndGrainFill  DAS = 128
-     		Biomass       = 945.19 		 LAI            =   0.92
-     		Stover N Conc =   2.29 		 Extractable SW = 109.04
-8 April 1976(Day of year=99), Maize: 
-     Stage 10 Maturity  DAS = 131
-     		Biomass       = 947.80 		 LAI            =   0.92
-     		Stover N Conc =   2.25 		 Extractable SW = 109.01
+     		Biomass       = 836.00 		 LAI            =   0.89
+     		Stover N Conc =   2.13 		 Extractable SW = 109.40
 9 April 1976(Day of year=100), Maize: 
-     Stage 11 HarvestRipe  DAS = 132
-     		Biomass       = 948.80 		 LAI            =   0.91
-     		Stover N Conc =   2.24 		 Extractable SW = 107.49
-9 April 1976(Day of year=100), Manager: 
+     Stage 10 Maturity  DAS = 132
+     		Biomass       = 838.44 		 LAI            =   0.88
+     		Stover N Conc =   2.11 		 Extractable SW = 107.94
+10 April 1976(Day of year=101), Maize: 
+     Stage 11 HarvestRipe  DAS = 133
+     		Biomass       = 838.44 		 LAI            =   0.88
+     		Stover N Conc =   2.11 		 Extractable SW = 125.21
+10 April 1976(Day of year=101), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 72 		 Maturity (DAS)          = 131
-     Flowering day         = 40 		 Maturity day            = 99
-     Maximum LAI           = 1.8 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 9488.0
-     Green above ground biomass    (kg/ha) = 8247.1
-     Senesced above ground biomass (kg/ha) = 1240.8
-     Stover (kg/ha)        = 5748.5 	 Grain yield (kg/ha)     = 3739.4
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4425.4
-     Weight 1000 grains(g) = 242.3 		 Grains/m^2              = 1543.0
-     Grains/head           = 367.4
-     Grain N percent    (%)     =      0.43 	 Grain N            (kg/ha) =    16.25
-     Total N content    (kg/ha) =     38.61 	 Senesced N content (kg/ha) =    11.86
-     Green N content    (kg/ha) =     19.22
-     Grain P percent    (%)     =      0.19 	 Grain P uptake     (kg/ha) =     6.99
-     Total P content    (kg/ha) =      8.85 	 Senesced P content (kg/ha) =     0.93
-     Green P content    (kg/ha) =      3.01 
+     Flowering (DAS)       = 72 		 Maturity (DAS)          = 132
+     Flowering day         = 40 		 Maturity day            = 100
+     Maximum LAI           = 1.7 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 8384.4
+     Green above ground biomass    (kg/ha) = 7181.1
+     Senesced above ground biomass (kg/ha) = 1203.3
+     Stover (kg/ha)        = 5495.5 	 Grain yield (kg/ha)     = 2888.9
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3418.8
+     Weight 1000 grains(g) = 228.8 		 Grains/m^2              = 1262.8
+     Grains/head           = 300.7
+     Grain N percent    (%)     =      0.49 	 Grain N            (kg/ha) =    14.02
+     Total N content    (kg/ha) =     35.14 	 Senesced N content (kg/ha) =    11.25
+     Green N content    (kg/ha) =     18.74
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.01
+     Total P content    (kg/ha) =      8.02 	 Senesced P content (kg/ha) =     0.90
+     Green P content    (kg/ha) =      9.22 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.9          0.9        0.8
-        Floral initiation   to Flag leaf                 1.0          1.0        0.9
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.6
-        Start grain fill    to End grain fill            1.0          1.0        0.3
+        Floral initiation   to Flag leaf                 1.0          1.0        0.8
+        Flag leaf           to Flowering                 1.0          1.0        0.8
+        Flowering           to Start grain fill          0.9          0.9        0.5
+        Start grain fill    to End grain fill            1.0          1.0        0.2
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3739.44		    0.00
-                         N  (kg/ha) =                 16.25		    0.00
+                         DM (kg/ha) =               2888.89		    0.00
+                         N  (kg/ha) =                 14.02		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               5748.52		 2100.07
-                         N  (kg/ha) =                 22.36		    8.72
-                         P  (kg/ha) =                  1.86		    2.09
-9 May 1976(Day of year=130), Manager: 
+                         DM (kg/ha) =               5495.48		 2042.55
+                         N  (kg/ha) =                 21.11		    8.87
+                         P  (kg/ha) =                  8.01		    2.11
+10 May 1976(Day of year=131), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-9 May 1976(Day of year=130), SurfaceOM: 
+10 May 1976(Day of year=131), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -587,19 +587,19 @@ Title                  = p80N13
 10 December 1976(Day of year=345), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 106.36
+     		Stover N Conc =   0.00 		 Extractable SW = 116.71
 13 December 1976(Day of year=348), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 107.60
+     		Stover N Conc =   0.00 		 Extractable SW = 116.40
 30 December 1976(Day of year=365), Maize: 
      Stage 4 EndOfJuvenile  DAS = 21
-     		Biomass       =   8.33 		 LAI            =   0.11
-     		Stover N Conc =   0.19 		 Extractable SW = 100.37
+     		Biomass       =   8.29 		 LAI            =   0.11
+     		Stover N Conc =   0.20 		 Extractable SW = 101.15
 2 January 1977(Day of year=2), Maize: 
      Stage 5 FloralInitiation  DAS = 24
-     		Biomass       =  13.96 		 LAI            =   0.15
-     		Stover N Conc =   0.27 		 Extractable SW = 107.69
+     		Biomass       =  13.91 		 LAI            =   0.15
+     		Stover N Conc =   0.28 		 Extractable SW = 108.48
 20 January 1977(Day of year=20), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 20 January 1977(Day of year=20), Fertiliser: 
@@ -607,72 +607,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-15 February 1977(Day of year=46), Maize: 
-     Stage 6 FlagLeaf  DAS = 68
-     		Biomass       = 287.01 		 LAI            =   1.04
-     		Stover N Conc =   2.09 		 Extractable SW = 131.05
-16 February 1977(Day of year=47), Maize: 
-     Stage 7 Flowering  DAS = 69
-     		Biomass       = 292.72 		 LAI            =   1.05
-     		Stover N Conc =   2.11 		 Extractable SW = 130.75
-1 March 1977(Day of year=60), Maize: 
-     Stage 8 StartGrainFill  DAS = 82
-     		Biomass       = 398.85 		 LAI            =   1.05
-     		Stover N Conc =   2.27 		 Extractable SW = 119.53
-13 April 1977(Day of year=103), Maize: 
-     Stage 9 EndGrainFill  DAS = 125
-     		Biomass       = 514.13 		 LAI            =   0.52
-     		Stover N Conc =   1.81 		 Extractable SW = 113.71
-16 April 1977(Day of year=106), Maize: 
-     Stage 10 Maturity  DAS = 128
-     		Biomass       = 516.31 		 LAI            =   0.52
-     		Stover N Conc =   1.80 		 Extractable SW = 109.89
-17 April 1977(Day of year=107), Maize: 
-     Stage 11 HarvestRipe  DAS = 129
-     		Biomass       = 517.02 		 LAI            =   0.51
-     		Stover N Conc =   1.80 		 Extractable SW = 109.05
-17 April 1977(Day of year=107), Manager: 
+3 March 1977(Day of year=62), Maize: 
+     Stage 6 FlagLeaf  DAS = 84
+     		Biomass       = 265.47 		 LAI            =   0.97
+     		Stover N Conc =   1.56 		 Extractable SW = 126.92
+5 March 1977(Day of year=64), Maize: 
+     Stage 7 Flowering  DAS = 86
+     		Biomass       = 272.45 		 LAI            =   0.97
+     		Stover N Conc =   1.58 		 Extractable SW = 130.01
+18 March 1977(Day of year=77), Maize: 
+     Stage 8 StartGrainFill  DAS = 99
+     		Biomass       = 319.71 		 LAI            =   0.97
+     		Stover N Conc =   1.78 		 Extractable SW = 131.43
+3 May 1977(Day of year=123), Maize: 
+     Stage 9 EndGrainFill  DAS = 145
+     		Biomass       = 345.08 		 LAI            =   0.97
+     		Stover N Conc =   2.04 		 Extractable SW =  87.70
+6 May 1977(Day of year=126), Maize: 
+     Stage 10 Maturity  DAS = 148
+     		Biomass       = 345.08 		 LAI            =   0.97
+     		Stover N Conc =   2.04 		 Extractable SW =  85.47
+7 May 1977(Day of year=127), Maize: 
+     Stage 11 HarvestRipe  DAS = 149
+     		Biomass       = 345.08 		 LAI            =   0.97
+     		Stover N Conc =   2.04 		 Extractable SW =  84.62
+7 May 1977(Day of year=127), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 69 		 Maturity (DAS)          = 128
-     Flowering day         = 47 		 Maturity day            = 106
-     Maximum LAI           = 1.1 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 5170.2
-     Green above ground biomass    (kg/ha) = 4235.1
-     Senesced above ground biomass (kg/ha) = 935.1
-     Stover (kg/ha)        = 3760.6 	 Grain yield (kg/ha)     = 1409.6
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 1668.2
-     Weight 1000 grains(g) = 241.9 		 Grains/m^2              = 582.8
-     Grains/head           = 138.8
-     Grain N percent    (%)     =      0.55 	 Grain N            (kg/ha) =     7.81
-     Total N content    (kg/ha) =     25.78 	 Senesced N content (kg/ha) =    11.22
-     Green N content    (kg/ha) =     12.09
-     Grain P percent    (%)     =      0.26 	 Grain P uptake     (kg/ha) =     3.61
-     Total P content    (kg/ha) =      4.75 	 Senesced P content (kg/ha) =     0.65
-     Green P content    (kg/ha) =      1.72 
+     Flowering (DAS)       = 86 		 Maturity (DAS)          = 148
+     Flowering day         = 64 		 Maturity day            = 126
+     Maximum LAI           = 1.0 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 3450.8
+     Green above ground biomass    (kg/ha) = 2865.6
+     Senesced above ground biomass (kg/ha) = 585.2
+     Stover (kg/ha)        = 3450.8 	 Grain yield (kg/ha)     = 0.0
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 0.0
+     Weight 1000 grains(g) = 0.0 		 Grains/m^2              = 0.0
+     Grains/head           = 0.0
+     Grain N percent    (%)     =      0.00 	 Grain N            (kg/ha) =     0.00
+     Total N content    (kg/ha) =     20.43 	 Senesced N content (kg/ha) =     6.38
+     Green N content    (kg/ha) =     20.94
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      3.64 	 Senesced P content (kg/ha) =     0.54
+     Green P content    (kg/ha) =      5.39 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         1.0          1.0        0.9
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        0.9
-        Flowering           to Start grain fill          1.0          1.0        0.6
+        Floral initiation   to Flag leaf                 1.0          1.0        0.5
+        Flag leaf           to Flowering                 1.0          1.0        0.3
+        Flowering           to Start grain fill          1.0          1.0        0.3
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               1409.64		    0.00
-                         N  (kg/ha) =                  7.81		    0.00
+                         DM (kg/ha) =                  0.00		    0.00
+                         N  (kg/ha) =                  0.00		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               3760.58		 1227.12
-                         N  (kg/ha) =                 17.96		    5.35
-                         P  (kg/ha) =                  1.14		    1.22
-17 May 1977(Day of year=137), Manager: 
+                         DM (kg/ha) =               3450.81		 2760.09
+                         N  (kg/ha) =                 20.43		    6.89
+                         P  (kg/ha) =                  3.64		    2.29
+6 June 1977(Day of year=157), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-17 May 1977(Day of year=137), SurfaceOM: 
+6 June 1977(Day of year=157), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -743,19 +743,19 @@ Title                  = p80N13
 30 November 1977(Day of year=334), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 107.89
+     		Stover N Conc =   0.00 		 Extractable SW =  87.03
 3 December 1977(Day of year=337), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 105.33
+     		Stover N Conc =   0.00 		 Extractable SW =  85.91
 20 December 1977(Day of year=354), Maize: 
      Stage 4 EndOfJuvenile  DAS = 21
-     		Biomass       =  11.16 		 LAI            =   0.11
-     		Stover N Conc =   0.22 		 Extractable SW = 115.44
+     		Biomass       =  11.09 		 LAI            =   0.11
+     		Stover N Conc =   0.21 		 Extractable SW = 109.63
 22 December 1977(Day of year=356), Maize: 
      Stage 5 FloralInitiation  DAS = 23
-     		Biomass       =  13.89 		 LAI            =   0.15
-     		Stover N Conc =   0.30 		 Extractable SW = 103.48
+     		Biomass       =  13.79 		 LAI            =   0.14
+     		Stover N Conc =   0.27 		 Extractable SW = 101.18
 10 January 1978(Day of year=10), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 10 January 1978(Day of year=10), Fertiliser: 
@@ -763,72 +763,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-6 February 1978(Day of year=37), Maize: 
-     Stage 6 FlagLeaf  DAS = 69
-     		Biomass       = 411.55 		 LAI            =   1.61
-     		Stover N Conc =   2.68 		 Extractable SW = 108.96
-7 February 1978(Day of year=38), Maize: 
-     Stage 7 Flowering  DAS = 70
-     		Biomass       = 426.40 		 LAI            =   1.61
-     		Stover N Conc =   2.71 		 Extractable SW = 110.90
+17 February 1978(Day of year=48), Maize: 
+     Stage 6 FlagLeaf  DAS = 80
+     		Biomass       = 271.61 		 LAI            =   1.06
+     		Stover N Conc =   1.71 		 Extractable SW = 130.60
 19 February 1978(Day of year=50), Maize: 
-     Stage 8 StartGrainFill  DAS = 82
-     		Biomass       = 565.82 		 LAI            =   1.56
-     		Stover N Conc =   2.95 		 Extractable SW = 130.78
-31 March 1978(Day of year=90), Maize: 
-     Stage 9 EndGrainFill  DAS = 122
-     		Biomass       = 720.48 		 LAI            =   0.84
-     		Stover N Conc =   1.97 		 Extractable SW = 113.05
-3 April 1978(Day of year=93), Maize: 
-     Stage 10 Maturity  DAS = 125
-     		Biomass       = 723.79 		 LAI            =   0.82
-     		Stover N Conc =   1.94 		 Extractable SW = 130.33
-4 April 1978(Day of year=94), Maize: 
-     Stage 11 HarvestRipe  DAS = 126
-     		Biomass       = 724.65 		 LAI            =   0.81
-     		Stover N Conc =   1.94 		 Extractable SW = 126.21
-4 April 1978(Day of year=94), Manager: 
+     Stage 7 Flowering  DAS = 82
+     		Biomass       = 277.81 		 LAI            =   1.06
+     		Stover N Conc =   1.74 		 Extractable SW = 130.62
+4 March 1978(Day of year=63), Maize: 
+     Stage 8 StartGrainFill  DAS = 95
+     		Biomass       = 327.96 		 LAI            =   1.06
+     		Stover N Conc =   2.00 		 Extractable SW = 124.27
+14 April 1978(Day of year=104), Maize: 
+     Stage 9 EndGrainFill  DAS = 136
+     		Biomass       = 346.36 		 LAI            =   1.06
+     		Stover N Conc =   2.31 		 Extractable SW = 105.11
+17 April 1978(Day of year=107), Maize: 
+     Stage 10 Maturity  DAS = 139
+     		Biomass       = 346.36 		 LAI            =   1.06
+     		Stover N Conc =   2.31 		 Extractable SW = 105.65
+18 April 1978(Day of year=108), Maize: 
+     Stage 11 HarvestRipe  DAS = 140
+     		Biomass       = 346.36 		 LAI            =   1.06
+     		Stover N Conc =   2.31 		 Extractable SW = 119.30
+18 April 1978(Day of year=108), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 70 		 Maturity (DAS)          = 125
-     Flowering day         = 38 		 Maturity day            = 93
-     Maximum LAI           = 1.6 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 7246.5
-     Green above ground biomass    (kg/ha) = 6251.3
-     Senesced above ground biomass (kg/ha) = 995.2
-     Stover (kg/ha)        = 4029.0 	 Grain yield (kg/ha)     = 3217.5
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3807.7
-     Weight 1000 grains(g) = 232.2 		 Grains/m^2              = 1385.8
-     Grains/head           = 329.9
-     Grain N percent    (%)     =      0.46 	 Grain N            (kg/ha) =    14.73
-     Total N content    (kg/ha) =     34.15 	 Senesced N content (kg/ha) =    11.78
-     Green N content    (kg/ha) =     15.22
-     Grain P percent    (%)     =      0.16 	 Grain P uptake     (kg/ha) =     5.04
-     Total P content    (kg/ha) =      6.37 	 Senesced P content (kg/ha) =     0.72
-     Green P content    (kg/ha) =      2.18 
+     Flowering (DAS)       = 82 		 Maturity (DAS)          = 139
+     Flowering day         = 50 		 Maturity day            = 107
+     Maximum LAI           = 1.1 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 3463.6
+     Green above ground biomass    (kg/ha) = 2934.9
+     Senesced above ground biomass (kg/ha) = 528.7
+     Stover (kg/ha)        = 3463.6 	 Grain yield (kg/ha)     = 0.0
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 0.0
+     Weight 1000 grains(g) = 0.0 		 Grains/m^2              = 0.0
+     Grains/head           = 0.0
+     Grain N percent    (%)     =      0.00 	 Grain N            (kg/ha) =     0.00
+     Total N content    (kg/ha) =     23.14 	 Senesced N content (kg/ha) =     7.14
+     Green N content    (kg/ha) =     23.86
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      3.55 	 Senesced P content (kg/ha) =     0.49
+     Green P content    (kg/ha) =      5.66 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.9          0.9        0.8
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.5
+        Floral initiation   to Flag leaf                 1.0          1.0        0.6
+        Flag leaf           to Flowering                 1.0          1.0        0.3
+        Flowering           to Start grain fill          1.0          1.0        0.3
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3217.50		    0.00
-                         N  (kg/ha) =                 14.73		    0.00
+                         DM (kg/ha) =                  0.00		    0.00
+                         N  (kg/ha) =                  0.00		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4029.01		 1588.36
-                         N  (kg/ha) =                 19.42		    7.58
-                         P  (kg/ha) =                  1.33		    1.58
-4 May 1978(Day of year=124), Manager: 
+                         DM (kg/ha) =               3463.56		 2531.55
+                         N  (kg/ha) =                 23.14		    7.85
+                         P  (kg/ha) =                  3.55		    2.60
+18 May 1978(Day of year=138), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-4 May 1978(Day of year=124), SurfaceOM: 
+18 May 1978(Day of year=138), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -899,19 +899,19 @@ Title                  = p80N13
 8 December 1978(Day of year=342), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 117.95
+     		Stover N Conc =   0.00 		 Extractable SW = 111.61
 11 December 1978(Day of year=345), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 110.56
+     		Stover N Conc =   0.00 		 Extractable SW = 100.77
 30 December 1978(Day of year=364), Maize: 
      Stage 4 EndOfJuvenile  DAS = 23
-     		Biomass       =  14.09 		 LAI            =   0.11
-     		Stover N Conc =   0.25 		 Extractable SW =  93.44
+     		Biomass       =  14.02 		 LAI            =   0.11
+     		Stover N Conc =   0.25 		 Extractable SW =  89.11
 1 January 1979(Day of year=1), Maize: 
      Stage 5 FloralInitiation  DAS = 25
-     		Biomass       =  19.91 		 LAI            =   0.15
-     		Stover N Conc =   0.32 		 Extractable SW =  98.53
+     		Biomass       =  19.79 		 LAI            =   0.15
+     		Stover N Conc =   0.32 		 Extractable SW =  94.19
 18 January 1979(Day of year=18), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 18 January 1979(Day of year=18), Fertiliser: 
@@ -919,72 +919,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-15 February 1979(Day of year=46), Maize: 
-     Stage 6 FlagLeaf  DAS = 70
-     		Biomass       = 450.46 		 LAI            =   1.27
-     		Stover N Conc =   2.57 		 Extractable SW =  76.24
-16 February 1979(Day of year=47), Maize: 
-     Stage 7 Flowering  DAS = 71
-     		Biomass       = 460.77 		 LAI            =   1.27
-     		Stover N Conc =   2.59 		 Extractable SW =  74.26
-28 February 1979(Day of year=59), Maize: 
-     Stage 8 StartGrainFill  DAS = 83
-     		Biomass       = 561.89 		 LAI            =   1.25
-     		Stover N Conc =   2.73 		 Extractable SW = 105.38
-11 April 1979(Day of year=101), Maize: 
-     Stage 9 EndGrainFill  DAS = 125
-     		Biomass       = 682.79 		 LAI            =   0.69
-     		Stover N Conc =   1.97 		 Extractable SW = 106.98
-14 April 1979(Day of year=104), Maize: 
-     Stage 10 Maturity  DAS = 128
-     		Biomass       = 684.63 		 LAI            =   0.69
-     		Stover N Conc =   1.94 		 Extractable SW = 114.33
-15 April 1979(Day of year=105), Maize: 
-     Stage 11 HarvestRipe  DAS = 129
-     		Biomass       = 685.27 		 LAI            =   0.68
-     		Stover N Conc =   1.94 		 Extractable SW = 112.84
-15 April 1979(Day of year=105), Manager: 
+25 February 1979(Day of year=56), Maize: 
+     Stage 6 FlagLeaf  DAS = 80
+     		Biomass       = 357.47 		 LAI            =   1.07
+     		Stover N Conc =   1.86 		 Extractable SW =  89.70
+26 February 1979(Day of year=57), Maize: 
+     Stage 7 Flowering  DAS = 81
+     		Biomass       = 360.43 		 LAI            =   1.07
+     		Stover N Conc =   1.87 		 Extractable SW = 124.42
+13 March 1979(Day of year=72), Maize: 
+     Stage 8 StartGrainFill  DAS = 96
+     		Biomass       = 398.73 		 LAI            =   1.07
+     		Stover N Conc =   2.21 		 Extractable SW = 110.84
+24 April 1979(Day of year=114), Maize: 
+     Stage 9 EndGrainFill  DAS = 138
+     		Biomass       = 419.32 		 LAI            =   1.07
+     		Stover N Conc =   2.55 		 Extractable SW =  94.87
+27 April 1979(Day of year=117), Maize: 
+     Stage 10 Maturity  DAS = 141
+     		Biomass       = 419.32 		 LAI            =   1.07
+     		Stover N Conc =   2.55 		 Extractable SW =  92.33
+28 April 1979(Day of year=118), Maize: 
+     Stage 11 HarvestRipe  DAS = 142
+     		Biomass       = 419.32 		 LAI            =   1.07
+     		Stover N Conc =   2.55 		 Extractable SW =  91.54
+28 April 1979(Day of year=118), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 71 		 Maturity (DAS)          = 128
-     Flowering day         = 47 		 Maturity day            = 104
-     Maximum LAI           = 1.3 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 6852.7
-     Green above ground biomass    (kg/ha) = 5668.1
-     Senesced above ground biomass (kg/ha) = 1184.6
-     Stover (kg/ha)        = 4357.6 	 Grain yield (kg/ha)     = 2495.1
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 2952.7
-     Weight 1000 grains(g) = 238.0 		 Grains/m^2              = 1048.3
-     Grains/head           = 249.6
-     Grain N percent    (%)     =      0.50 	 Grain N            (kg/ha) =    12.38
-     Total N content    (kg/ha) =     31.74 	 Senesced N content (kg/ha) =    11.99
-     Green N content    (kg/ha) =     15.22
-     Grain P percent    (%)     =      0.21 	 Grain P uptake     (kg/ha) =     5.20
-     Total P content    (kg/ha) =      6.64 	 Senesced P content (kg/ha) =     0.84
-     Green P content    (kg/ha) =      2.31 
+     Flowering (DAS)       = 81 		 Maturity (DAS)          = 141
+     Flowering day         = 57 		 Maturity day            = 117
+     Maximum LAI           = 1.1 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 4193.2
+     Green above ground biomass    (kg/ha) = 3480.6
+     Senesced above ground biomass (kg/ha) = 712.6
+     Stover (kg/ha)        = 4193.2 	 Grain yield (kg/ha)     = 0.0
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 0.0
+     Weight 1000 grains(g) = 0.0 		 Grains/m^2              = 0.0
+     Grains/head           = 0.0
+     Grain N percent    (%)     =      0.00 	 Grain N            (kg/ha) =     0.00
+     Total N content    (kg/ha) =     25.49 	 Senesced N content (kg/ha) =     7.67
+     Green N content    (kg/ha) =     27.70
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      4.95 	 Senesced P content (kg/ha) =     0.64
+     Green P content    (kg/ha) =      7.02 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.9          0.9        0.9
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.5
+        Floral initiation   to Flag leaf                 1.0          1.0        0.6
+        Flag leaf           to Flowering                 1.0          1.0        0.3
+        Flowering           to Start grain fill          1.0          1.0        0.2
         Start grain fill    to End grain fill            1.0          1.0        0.2
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               2495.06		    0.00
-                         N  (kg/ha) =                 12.38		    0.00
+                         DM (kg/ha) =                  0.00		    0.00
+                         N  (kg/ha) =                  0.00		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4357.61		 1729.82
-                         N  (kg/ha) =                 19.36		    7.84
-                         P  (kg/ha) =                  1.44		    1.71
-15 May 1979(Day of year=135), Manager: 
+                         DM (kg/ha) =               4193.15		 2802.73
+                         N  (kg/ha) =                 25.49		    9.88
+                         P  (kg/ha) =                  4.95		    2.72
+28 May 1979(Day of year=148), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-15 May 1979(Day of year=135), SurfaceOM: 
+28 May 1979(Day of year=148), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -1048,7 +1048,7 @@ Title                  = p80N13
 16 November 1979(Day of year=320), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 105.90
+     		Stover N Conc =   0.00 		 Extractable SW =  93.36
 17 November 1979(Day of year=321), Manager: 
      Manager sending message :- fertiliser apply  amount = 80, depth = 50, type = broadcast_p
 17 November 1979(Day of year=321), Fertiliser: 
@@ -1059,15 +1059,15 @@ Title                  = p80N13
 19 November 1979(Day of year=323), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 108.20
+     		Stover N Conc =   0.00 		 Extractable SW =  93.41
 5 December 1979(Day of year=339), Maize: 
      Stage 4 EndOfJuvenile  DAS = 20
-     		Biomass       =   9.53 		 LAI            =   0.11
-     		Stover N Conc =   0.21 		 Extractable SW = 120.03
+     		Biomass       =   9.46 		 LAI            =   0.11
+     		Stover N Conc =   0.21 		 Extractable SW = 113.48
 8 December 1979(Day of year=342), Maize: 
      Stage 5 FloralInitiation  DAS = 23
-     		Biomass       =  12.84 		 LAI            =   0.16
-     		Stover N Conc =   0.30 		 Extractable SW = 109.49
+     		Biomass       =  12.73 		 LAI            =   0.15
+     		Stover N Conc =   0.29 		 Extractable SW = 105.32
 27 December 1979(Day of year=361), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 27 December 1979(Day of year=361), Fertiliser: 
@@ -1075,72 +1075,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-23 January 1980(Day of year=23), Maize: 
-     Stage 6 FlagLeaf  DAS = 69
-     		Biomass       = 399.09 		 LAI            =   1.13
-     		Stover N Conc =   2.37 		 Extractable SW = 102.51
-24 January 1980(Day of year=24), Maize: 
-     Stage 7 Flowering  DAS = 70
-     		Biomass       = 408.88 		 LAI            =   1.14
-     		Stover N Conc =   2.41 		 Extractable SW =  99.82
-6 February 1980(Day of year=37), Maize: 
-     Stage 8 StartGrainFill  DAS = 83
-     		Biomass       = 501.53 		 LAI            =   1.14
-     		Stover N Conc =   2.62 		 Extractable SW =  90.32
-15 March 1980(Day of year=75), Maize: 
-     Stage 9 EndGrainFill  DAS = 121
-     		Biomass       = 637.27 		 LAI            =   0.67
-     		Stover N Conc =   1.90 		 Extractable SW = 111.36
-18 March 1980(Day of year=78), Maize: 
-     Stage 10 Maturity  DAS = 124
-     		Biomass       = 640.94 		 LAI            =   0.65
-     		Stover N Conc =   1.86 		 Extractable SW = 108.94
-19 March 1980(Day of year=79), Maize: 
-     Stage 11 HarvestRipe  DAS = 125
-     		Biomass       = 642.01 		 LAI            =   0.64
-     		Stover N Conc =   1.86 		 Extractable SW = 108.12
-19 March 1980(Day of year=79), Manager: 
+5 February 1980(Day of year=36), Maize: 
+     Stage 6 FlagLeaf  DAS = 82
+     		Biomass       = 314.03 		 LAI            =   1.13
+     		Stover N Conc =   1.78 		 Extractable SW = 112.55
+7 February 1980(Day of year=38), Maize: 
+     Stage 7 Flowering  DAS = 84
+     		Biomass       = 321.45 		 LAI            =   1.13
+     		Stover N Conc =   1.81 		 Extractable SW = 107.52
+18 February 1980(Day of year=49), Maize: 
+     Stage 8 StartGrainFill  DAS = 95
+     		Biomass       = 379.46 		 LAI            =   1.13
+     		Stover N Conc =   2.12 		 Extractable SW = 107.34
+30 March 1980(Day of year=90), Maize: 
+     Stage 9 EndGrainFill  DAS = 136
+     		Biomass       = 410.33 		 LAI            =   1.13
+     		Stover N Conc =   2.59 		 Extractable SW =  94.56
+2 April 1980(Day of year=93), Maize: 
+     Stage 10 Maturity  DAS = 139
+     		Biomass       = 410.33 		 LAI            =   1.13
+     		Stover N Conc =   2.59 		 Extractable SW =  90.73
+3 April 1980(Day of year=94), Maize: 
+     Stage 11 HarvestRipe  DAS = 140
+     		Biomass       = 410.33 		 LAI            =   1.13
+     		Stover N Conc =   2.59 		 Extractable SW =  89.73
+3 April 1980(Day of year=94), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 70 		 Maturity (DAS)          = 124
-     Flowering day         = 24 		 Maturity day            = 78
-     Maximum LAI           = 1.1 		 Number of leaves        = 17.3
-     Total above ground biomass    (kg/ha) = 6420.1
-     Green above ground biomass    (kg/ha) = 5373.8
-     Senesced above ground biomass (kg/ha) = 1046.3
-     Stover (kg/ha)        = 3973.0 	 Grain yield (kg/ha)     = 2447.1
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 2896.0
-     Weight 1000 grains(g) = 240.1 		 Grains/m^2              = 1019.2
-     Grains/head           = 242.7
-     Grain N percent    (%)     =      0.50 	 Grain N            (kg/ha) =    12.22
-     Total N content    (kg/ha) =     30.77 	 Senesced N content (kg/ha) =    11.51
-     Green N content    (kg/ha) =     14.08
-     Grain P percent    (%)     =      0.19 	 Grain P uptake     (kg/ha) =     4.58
-     Total P content    (kg/ha) =      5.88 	 Senesced P content (kg/ha) =     0.73
-     Green P content    (kg/ha) =      2.05 
+     Flowering (DAS)       = 84 		 Maturity (DAS)          = 139
+     Flowering day         = 38 		 Maturity day            = 93
+     Maximum LAI           = 1.1 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 4103.3
+     Green above ground biomass    (kg/ha) = 3545.7
+     Senesced above ground biomass (kg/ha) = 557.7
+     Stover (kg/ha)        = 4103.3 	 Grain yield (kg/ha)     = 0.0
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 0.0
+     Weight 1000 grains(g) = 0.0 		 Grains/m^2              = 0.0
+     Grains/head           = 0.0
+     Grain N percent    (%)     =      0.00 	 Grain N            (kg/ha) =     0.00
+     Total N content    (kg/ha) =     25.95 	 Senesced N content (kg/ha) =     6.65
+     Green N content    (kg/ha) =     28.73
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      4.42 	 Senesced P content (kg/ha) =     0.53
+     Green P content    (kg/ha) =      6.66 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         1.0          1.0        1.0
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        0.8
-        Flowering           to Start grain fill          0.9          0.9        0.5
-        Start grain fill    to End grain fill            1.0          1.0        0.2
+        Floral initiation   to Flag leaf                 1.0          1.0        0.5
+        Flag leaf           to Flowering                 1.0          1.0        0.3
+        Flowering           to Start grain fill          1.0          1.0        0.3
+        Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               2447.11		    0.00
-                         N  (kg/ha) =                 12.22		    0.00
+                         DM (kg/ha) =                  0.00		    0.00
+                         N  (kg/ha) =                  0.00		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               3972.95		 1495.05
-                         N  (kg/ha) =                 18.56		    7.03
-                         P  (kg/ha) =                  1.29		    1.48
-18 April 1980(Day of year=109), Manager: 
+                         DM (kg/ha) =               4103.35		 2886.84
+                         N  (kg/ha) =                 25.95		    9.43
+                         P  (kg/ha) =                  4.42		    2.78
+3 May 1980(Day of year=124), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-18 April 1980(Day of year=109), SurfaceOM: 
+3 May 1980(Day of year=124), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -1210,19 +1210,19 @@ Title                  = p80N13
 17 November 1980(Day of year=322), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 106.90
+     		Stover N Conc =   0.00 		 Extractable SW =  90.78
 19 November 1980(Day of year=324), Maize: 
      Stage 3 Emergence  DAS = 3
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 107.64
+     		Stover N Conc =   0.00 		 Extractable SW =  90.48
 6 December 1980(Day of year=341), Maize: 
      Stage 4 EndOfJuvenile  DAS = 20
-     		Biomass       =  10.26 		 LAI            =   0.12
-     		Stover N Conc =   0.22 		 Extractable SW = 100.05
+     		Biomass       =   9.93 		 LAI            =   0.12
+     		Stover N Conc =   0.21 		 Extractable SW =  92.19
 8 December 1980(Day of year=343), Maize: 
      Stage 5 FloralInitiation  DAS = 22
-     		Biomass       =  14.41 		 LAI            =   0.16
-     		Stover N Conc =   0.27 		 Extractable SW = 105.14
+     		Biomass       =  13.99 		 LAI            =   0.16
+     		Stover N Conc =   0.26 		 Extractable SW =  97.26
 28 December 1980(Day of year=363), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 28 December 1980(Day of year=363), Fertiliser: 
@@ -1230,72 +1230,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-22 January 1981(Day of year=22), Maize: 
-     Stage 6 FlagLeaf  DAS = 67
-     		Biomass       = 396.54 		 LAI            =   1.62
-     		Stover N Conc =   2.70 		 Extractable SW = 112.05
-23 January 1981(Day of year=23), Maize: 
-     Stage 7 Flowering  DAS = 68
-     		Biomass       = 412.43 		 LAI            =   1.62
-     		Stover N Conc =   2.74 		 Extractable SW = 107.22
-4 February 1981(Day of year=35), Maize: 
-     Stage 8 StartGrainFill  DAS = 80
-     		Biomass       = 563.43 		 LAI            =   1.60
-     		Stover N Conc =   3.06 		 Extractable SW = 130.99
-17 March 1981(Day of year=76), Maize: 
-     Stage 9 EndGrainFill  DAS = 121
-     		Biomass       = 730.12 		 LAI            =   0.82
-     		Stover N Conc =   2.00 		 Extractable SW = 128.26
-20 March 1981(Day of year=79), Maize: 
-     Stage 10 Maturity  DAS = 124
-     		Biomass       = 733.89 		 LAI            =   0.80
-     		Stover N Conc =   1.95 		 Extractable SW = 120.49
-21 March 1981(Day of year=80), Maize: 
-     Stage 11 HarvestRipe  DAS = 125
-     		Biomass       = 734.96 		 LAI            =   0.80
-     		Stover N Conc =   1.94 		 Extractable SW = 117.95
-21 March 1981(Day of year=80), Manager: 
+30 January 1981(Day of year=30), Maize: 
+     Stage 6 FlagLeaf  DAS = 75
+     		Biomass       = 322.00 		 LAI            =   1.32
+     		Stover N Conc =   1.99 		 Extractable SW = 127.11
+31 January 1981(Day of year=31), Maize: 
+     Stage 7 Flowering  DAS = 76
+     		Biomass       = 329.81 		 LAI            =   1.32
+     		Stover N Conc =   2.02 		 Extractable SW = 130.53
+13 February 1981(Day of year=44), Maize: 
+     Stage 8 StartGrainFill  DAS = 89
+     		Biomass       = 402.56 		 LAI            =   1.32
+     		Stover N Conc =   2.38 		 Extractable SW = 131.30
+26 March 1981(Day of year=85), Maize: 
+     Stage 9 EndGrainFill  DAS = 130
+     		Biomass       = 509.59 		 LAI            =   1.07
+     		Stover N Conc =   1.88 		 Extractable SW = 104.19
+29 March 1981(Day of year=88), Maize: 
+     Stage 10 Maturity  DAS = 133
+     		Biomass       = 516.52 		 LAI            =   0.99
+     		Stover N Conc =   1.85 		 Extractable SW = 131.18
+30 March 1981(Day of year=89), Maize: 
+     Stage 11 HarvestRipe  DAS = 134
+     		Biomass       = 516.52 		 LAI            =   0.99
+     		Stover N Conc =   1.85 		 Extractable SW = 127.73
+30 March 1981(Day of year=89), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 68 		 Maturity (DAS)          = 124
-     Flowering day         = 23 		 Maturity day            = 79
-     Maximum LAI           = 1.6 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 7349.6
-     Green above ground biomass    (kg/ha) = 6345.0
-     Senesced above ground biomass (kg/ha) = 1004.6
-     Stover (kg/ha)        = 4085.0 	 Grain yield (kg/ha)     = 3264.6
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3863.4
-     Weight 1000 grains(g) = 242.8 		 Grains/m^2              = 1344.8
-     Grains/head           = 320.2
-     Grain N percent    (%)     =      0.52 	 Grain N            (kg/ha) =    17.13
-     Total N content    (kg/ha) =     36.55 	 Senesced N content (kg/ha) =    11.66
-     Green N content    (kg/ha) =     16.00
-     Grain P percent    (%)     =      0.15 	 Grain P uptake     (kg/ha) =     4.82
-     Total P content    (kg/ha) =      6.16 	 Senesced P content (kg/ha) =     0.73
-     Green P content    (kg/ha) =      2.14 
+     Flowering (DAS)       = 76 		 Maturity (DAS)          = 133
+     Flowering day         = 31 		 Maturity day            = 88
+     Maximum LAI           = 1.3 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 5165.2
+     Green above ground biomass    (kg/ha) = 4478.6
+     Senesced above ground biomass (kg/ha) = 686.6
+     Stover (kg/ha)        = 4351.4 	 Grain yield (kg/ha)     = 813.8
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 963.1
+     Weight 1000 grains(g) = 247.7 		 Grains/m^2              = 328.6
+     Grains/head           = 78.2
+     Grain N percent    (%)     =      1.27 	 Grain N            (kg/ha) =    10.37
+     Total N content    (kg/ha) =     28.87 	 Senesced N content (kg/ha) =     8.16
+     Green N content    (kg/ha) =     19.53
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      4.56 	 Senesced P content (kg/ha) =     0.60
+     Green P content    (kg/ha) =      6.60 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
-        Emergence           to End of juvenile           1.0          1.0        1.0
+        Emergence           to End of juvenile           1.0          1.0        0.9
         End of juvenile     to Floral initiation         0.9          0.9        0.8
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.6
-        Start grain fill    to End grain fill            1.0          1.0        0.3
+        Floral initiation   to Flag leaf                 1.0          1.0        0.6
+        Flag leaf           to Flowering                 1.0          1.0        0.6
+        Flowering           to Start grain fill          0.9          0.9        0.4
+        Start grain fill    to End grain fill            1.0          1.0        0.4
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3264.57		    0.00
-                         N  (kg/ha) =                 17.13		    0.00
+                         DM (kg/ha) =                813.79		    0.00
+                         N  (kg/ha) =                 10.37		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4085.03		 1543.16
-                         N  (kg/ha) =                 19.42		    8.25
-                         P  (kg/ha) =                  1.33		    1.53
-20 April 1981(Day of year=110), Manager: 
+                         DM (kg/ha) =               4351.42		 2635.96
+                         N  (kg/ha) =                 18.49		    9.19
+                         P  (kg/ha) =                  4.56		    2.63
+29 April 1981(Day of year=119), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-20 April 1981(Day of year=110), SurfaceOM: 
+29 April 1981(Day of year=119), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -1366,19 +1366,19 @@ Title                  = p80N13
 26 November 1981(Day of year=330), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 111.55
+     		Stover N Conc =   0.00 		 Extractable SW = 121.19
 29 November 1981(Day of year=333), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 109.53
+     		Stover N Conc =   0.00 		 Extractable SW = 115.59
 16 December 1981(Day of year=350), Maize: 
      Stage 4 EndOfJuvenile  DAS = 21
-     		Biomass       =  10.45 		 LAI            =   0.10
-     		Stover N Conc =   0.20 		 Extractable SW =  90.58
+     		Biomass       =  10.38 		 LAI            =   0.10
+     		Stover N Conc =   0.20 		 Extractable SW =  94.04
 18 December 1981(Day of year=352), Maize: 
      Stage 5 FloralInitiation  DAS = 23
-     		Biomass       =  14.99 		 LAI            =   0.13
-     		Stover N Conc =   0.28 		 Extractable SW =  95.37
+     		Biomass       =  14.89 		 LAI            =   0.13
+     		Stover N Conc =   0.28 		 Extractable SW =  98.84
 6 January 1982(Day of year=6), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 6 January 1982(Day of year=6), Fertiliser: 
@@ -1386,72 +1386,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-31 January 1982(Day of year=31), Maize: 
-     Stage 6 FlagLeaf  DAS = 67
-     		Biomass       = 451.56 		 LAI            =   1.85
-     		Stover N Conc =   2.95 		 Extractable SW =  98.29
 1 February 1982(Day of year=32), Maize: 
-     Stage 7 Flowering  DAS = 68
-     		Biomass       = 468.23 		 LAI            =   1.85
-     		Stover N Conc =   2.98 		 Extractable SW =  94.85
-13 February 1982(Day of year=44), Maize: 
-     Stage 8 StartGrainFill  DAS = 80
-     		Biomass       = 621.43 		 LAI            =   1.81
-     		Stover N Conc =   3.20 		 Extractable SW = 125.00
-26 March 1982(Day of year=85), Maize: 
-     Stage 9 EndGrainFill  DAS = 121
-     		Biomass       = 832.59 		 LAI            =   0.91
-     		Stover N Conc =   2.13 		 Extractable SW = 102.58
-28 March 1982(Day of year=87), Maize: 
-     Stage 10 Maturity  DAS = 123
-     		Biomass       = 835.00 		 LAI            =   0.91
-     		Stover N Conc =   2.09 		 Extractable SW =  99.93
+     Stage 6 FlagLeaf  DAS = 68
+     		Biomass       = 402.15 		 LAI            =   1.60
+     		Stover N Conc =   2.48 		 Extractable SW =  99.56
+2 February 1982(Day of year=33), Maize: 
+     Stage 7 Flowering  DAS = 69
+     		Biomass       = 413.43 		 LAI            =   1.58
+     		Stover N Conc =   2.50 		 Extractable SW =  97.42
+15 February 1982(Day of year=46), Maize: 
+     Stage 8 StartGrainFill  DAS = 82
+     		Biomass       = 532.72 		 LAI            =   1.58
+     		Stover N Conc =   2.77 		 Extractable SW = 122.95
+27 March 1982(Day of year=86), Maize: 
+     Stage 9 EndGrainFill  DAS = 122
+     		Biomass       = 683.80 		 LAI            =   0.86
+     		Stover N Conc =   1.94 		 Extractable SW = 101.35
 29 March 1982(Day of year=88), Maize: 
-     Stage 11 HarvestRipe  DAS = 124
-     		Biomass       = 836.32 		 LAI            =   0.91
-     		Stover N Conc =   2.07 		 Extractable SW =  99.52
-29 March 1982(Day of year=88), Manager: 
+     Stage 10 Maturity  DAS = 124
+     		Biomass       = 685.77 		 LAI            =   0.85
+     		Stover N Conc =   1.93 		 Extractable SW = 100.38
+30 March 1982(Day of year=89), Maize: 
+     Stage 11 HarvestRipe  DAS = 125
+     		Biomass       = 685.77 		 LAI            =   0.85
+     		Stover N Conc =   1.93 		 Extractable SW = 100.00
+30 March 1982(Day of year=89), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 68 		 Maturity (DAS)          = 123
-     Flowering day         = 32 		 Maturity day            = 87
-     Maximum LAI           = 1.9 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 8363.2
-     Green above ground biomass    (kg/ha) = 7325.5
-     Senesced above ground biomass (kg/ha) = 1037.7
-     Stover (kg/ha)        = 4636.6 	 Grain yield (kg/ha)     = 3726.6
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4410.2
-     Weight 1000 grains(g) = 241.6 		 Grains/m^2              = 1542.7
-     Grains/head           = 367.3
-     Grain N percent    (%)     =      0.45 	 Grain N            (kg/ha) =    16.94
-     Total N content    (kg/ha) =     37.69 	 Senesced N content (kg/ha) =    11.69
-     Green N content    (kg/ha) =     17.44
-     Grain P percent    (%)     =      0.17 	 Grain P uptake     (kg/ha) =     6.30
-     Total P content    (kg/ha) =      7.81 	 Senesced P content (kg/ha) =     0.76
-     Green P content    (kg/ha) =      2.47 
+     Flowering (DAS)       = 69 		 Maturity (DAS)          = 124
+     Flowering day         = 33 		 Maturity day            = 88
+     Maximum LAI           = 1.6 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 6857.7
+     Green above ground biomass    (kg/ha) = 5882.0
+     Senesced above ground biomass (kg/ha) = 975.7
+     Stover (kg/ha)        = 4368.7 	 Grain yield (kg/ha)     = 2489.0
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 2945.6
+     Weight 1000 grains(g) = 230.9 		 Grains/m^2              = 1078.1
+     Grains/head           = 256.7
+     Grain N percent    (%)     =      0.56 	 Grain N            (kg/ha) =    13.90
+     Total N content    (kg/ha) =     33.19 	 Senesced N content (kg/ha) =    10.88
+     Green N content    (kg/ha) =     17.10
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.03
+     Total P content    (kg/ha) =      6.30 	 Senesced P content (kg/ha) =     0.72
+     Green P content    (kg/ha) =      7.28 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.9          0.9        0.8
-        Floral initiation   to Flag leaf                 1.0          1.0        0.9
+        Floral initiation   to Flag leaf                 1.0          1.0        0.8
         Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.6
+        Flowering           to Start grain fill          0.9          0.9        0.4
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3726.59		    0.00
-                         N  (kg/ha) =                 16.94		    0.00
+                         DM (kg/ha) =               2489.01		    0.00
+                         N  (kg/ha) =                 13.90		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4636.59		 1741.18
-                         N  (kg/ha) =                 20.75		    8.39
-                         P  (kg/ha) =                  1.50		    1.72
-28 April 1982(Day of year=118), Manager: 
+                         DM (kg/ha) =               4368.72		 1702.82
+                         N  (kg/ha) =                 19.29		    8.68
+                         P  (kg/ha) =                  6.27		    1.72
+29 April 1982(Day of year=119), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-28 April 1982(Day of year=118), SurfaceOM: 
+29 April 1982(Day of year=119), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -1522,19 +1522,19 @@ Title                  = p80N13
 10 December 1982(Day of year=344), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  99.52
+     		Stover N Conc =   0.00 		 Extractable SW = 102.85
 13 December 1982(Day of year=347), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 102.61
+     		Stover N Conc =   0.00 		 Extractable SW = 103.06
 29 December 1982(Day of year=363), Maize: 
      Stage 4 EndOfJuvenile  DAS = 20
-     		Biomass       =   8.87 		 LAI            =   0.11
-     		Stover N Conc =   0.20 		 Extractable SW = 101.31
+     		Biomass       =   8.83 		 LAI            =   0.11
+     		Stover N Conc =   0.20 		 Extractable SW = 101.53
 31 December 1982(Day of year=365), Maize: 
      Stage 5 FloralInitiation  DAS = 22
-     		Biomass       =  14.11 		 LAI            =   0.14
-     		Stover N Conc =   0.29 		 Extractable SW =  87.58
+     		Biomass       =  14.04 		 LAI            =   0.14
+     		Stover N Conc =   0.29 		 Extractable SW =  87.69
 20 January 1983(Day of year=20), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 20 January 1983(Day of year=20), Fertiliser: 
@@ -1544,48 +1544,48 @@ Title                  = p80N13
                                          added at depth    5.00 (layer   1)
 10 February 1983(Day of year=41), Maize: 
      Stage 6 FlagLeaf  DAS = 63
-     		Biomass       = 392.79 		 LAI            =   1.93
-     		Stover N Conc =   2.87 		 Extractable SW = 126.23
+     		Biomass       = 408.03 		 LAI            =   2.04
+     		Stover N Conc =   2.92 		 Extractable SW = 125.80
 11 February 1983(Day of year=42), Maize: 
      Stage 7 Flowering  DAS = 64
-     		Biomass       = 408.49 		 LAI            =   1.95
-     		Stover N Conc =   2.92 		 Extractable SW = 121.00
+     		Biomass       = 423.62 		 LAI            =   2.04
+     		Stover N Conc =   2.97 		 Extractable SW = 120.76
 23 February 1983(Day of year=54), Maize: 
      Stage 8 StartGrainFill  DAS = 76
-     		Biomass       = 601.30 		 LAI            =   1.91
-     		Stover N Conc =   3.20 		 Extractable SW =  80.62
+     		Biomass       = 622.41 		 LAI            =   2.04
+     		Stover N Conc =   3.26 		 Extractable SW =  79.69
 1 April 1983(Day of year=91), Maize: 
      Stage 9 EndGrainFill  DAS = 113
-     		Biomass       = 811.94 		 LAI            =   0.94
-     		Stover N Conc =   2.07 		 Extractable SW =  71.47
+     		Biomass       = 840.60 		 LAI            =   0.93
+     		Stover N Conc =   2.09 		 Extractable SW =  67.96
 4 April 1983(Day of year=94), Maize: 
      Stage 10 Maturity  DAS = 116
-     		Biomass       = 815.50 		 LAI            =   0.93
-     		Stover N Conc =   2.02 		 Extractable SW =  70.34
+     		Biomass       = 843.48 		 LAI            =   0.93
+     		Stover N Conc =   2.07 		 Extractable SW =  66.94
 5 April 1983(Day of year=95), Maize: 
      Stage 11 HarvestRipe  DAS = 117
-     		Biomass       = 816.88 		 LAI            =   0.92
-     		Stover N Conc =   2.00 		 Extractable SW =  69.86
+     		Biomass       = 843.48 		 LAI            =   0.93
+     		Stover N Conc =   2.07 		 Extractable SW =  66.52
 5 April 1983(Day of year=95), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
      Flowering (DAS)       = 64 		 Maturity (DAS)          = 116
      Flowering day         = 42 		 Maturity day            = 94
-     Maximum LAI           = 1.9 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 8168.8
-     Green above ground biomass    (kg/ha) = 7252.7
-     Senesced above ground biomass (kg/ha) = 916.1
-     Stover (kg/ha)        = 4157.7 	 Grain yield (kg/ha)     = 4011.1
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4746.8
-     Weight 1000 grains(g) = 241.6 		 Grains/m^2              = 1660.3
-     Grains/head           = 395.3
-     Grain N percent    (%)     =      0.42 	 Grain N            (kg/ha) =    16.81
-     Total N content    (kg/ha) =     36.85 	 Senesced N content (kg/ha) =    11.49
-     Green N content    (kg/ha) =     16.32
-     Grain P percent    (%)     =      0.13 	 Grain P uptake     (kg/ha) =     5.07
-     Total P content    (kg/ha) =      6.41 	 Senesced P content (kg/ha) =     0.65
-     Green P content    (kg/ha) =      2.21 
+     Maximum LAI           = 2.0 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 8434.8
+     Green above ground biomass    (kg/ha) = 7499.3
+     Senesced above ground biomass (kg/ha) = 935.5
+     Stover (kg/ha)        = 4677.1 	 Grain yield (kg/ha)     = 3757.7
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4447.0
+     Weight 1000 grains(g) = 229.7 		 Grains/m^2              = 1636.1
+     Grains/head           = 389.5
+     Grain N percent    (%)     =      0.46 	 Grain N            (kg/ha) =    17.14
+     Total N content    (kg/ha) =     37.81 	 Senesced N content (kg/ha) =    11.23
+     Green N content    (kg/ha) =     17.98
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.01
+     Total P content    (kg/ha) =      6.35 	 Senesced P content (kg/ha) =     0.68
+     Green P content    (kg/ha) =      7.43 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
@@ -1597,14 +1597,14 @@ Title                  = p80N13
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               4011.09		    0.00
-                         N  (kg/ha) =                 16.81		    0.00
+                         DM (kg/ha) =               3757.69		    0.00
+                         N  (kg/ha) =                 17.14		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4157.69		 1553.43
-                         N  (kg/ha) =                 20.04		    7.78
-                         P  (kg/ha) =                  1.34		    1.53
+                         DM (kg/ha) =               4677.11		 1782.88
+                         N  (kg/ha) =                 20.68		    8.52
+                         P  (kg/ha) =                  6.34		    1.77
 5 May 1983(Day of year=125), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
 5 May 1983(Day of year=125), SurfaceOM: 
@@ -1678,19 +1678,19 @@ Title                  = p80N13
 10 December 1983(Day of year=344), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  69.86
+     		Stover N Conc =   0.00 		 Extractable SW =  68.18
 13 December 1983(Day of year=347), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  67.53
+     		Stover N Conc =   0.00 		 Extractable SW =  64.27
 30 December 1983(Day of year=364), Maize: 
      Stage 4 EndOfJuvenile  DAS = 21
-     		Biomass       =   8.75 		 LAI            =   0.11
-     		Stover N Conc =   0.21 		 Extractable SW =  84.80
+     		Biomass       =   8.71 		 LAI            =   0.11
+     		Stover N Conc =   0.21 		 Extractable SW =  83.11
 1 January 1984(Day of year=1), Maize: 
      Stage 5 FloralInitiation  DAS = 23
-     		Biomass       =  12.46 		 LAI            =   0.14
-     		Stover N Conc =   0.29 		 Extractable SW =  82.99
+     		Biomass       =  12.40 		 LAI            =   0.14
+     		Stover N Conc =   0.29 		 Extractable SW =  82.36
 20 January 1984(Day of year=20), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 20 January 1984(Day of year=20), Fertiliser: 
@@ -1700,67 +1700,67 @@ Title                  = p80N13
                                          added at depth    5.00 (layer   1)
 14 February 1984(Day of year=45), Maize: 
      Stage 6 FlagLeaf  DAS = 67
-     		Biomass       = 497.21 		 LAI            =   1.66
-     		Stover N Conc =   2.99 		 Extractable SW =  90.19
+     		Biomass       = 462.35 		 LAI            =   1.64
+     		Stover N Conc =   2.70 		 Extractable SW =  95.35
 15 February 1984(Day of year=46), Maize: 
      Stage 7 Flowering  DAS = 68
-     		Biomass       = 515.28 		 LAI            =   1.66
-     		Stover N Conc =   3.02 		 Extractable SW =  86.09
-27 February 1984(Day of year=58), Maize: 
-     Stage 8 StartGrainFill  DAS = 80
-     		Biomass       = 659.01 		 LAI            =   1.63
-     		Stover N Conc =   3.37 		 Extractable SW = 110.94
+     		Biomass       = 477.55 		 LAI            =   1.63
+     		Stover N Conc =   2.73 		 Extractable SW =  91.79
+28 February 1984(Day of year=59), Maize: 
+     Stage 8 StartGrainFill  DAS = 81
+     		Biomass       = 616.70 		 LAI            =   1.63
+     		Stover N Conc =   3.12 		 Extractable SW = 111.68
 8 April 1984(Day of year=99), Maize: 
      Stage 9 EndGrainFill  DAS = 121
-     		Biomass       = 870.80 		 LAI            =   0.85
-     		Stover N Conc =   2.18 		 Extractable SW = 112.06
+     		Biomass       = 794.89 		 LAI            =   0.82
+     		Stover N Conc =   2.01 		 Extractable SW = 112.41
 11 April 1984(Day of year=102), Maize: 
      Stage 10 Maturity  DAS = 124
-     		Biomass       = 874.84 		 LAI            =   0.83
-     		Stover N Conc =   2.12 		 Extractable SW = 108.66
+     		Biomass       = 797.62 		 LAI            =   0.81
+     		Stover N Conc =   1.99 		 Extractable SW = 109.27
 12 April 1984(Day of year=103), Maize: 
      Stage 11 HarvestRipe  DAS = 125
-     		Biomass       = 875.83 		 LAI            =   0.82
-     		Stover N Conc =   2.12 		 Extractable SW = 107.93
+     		Biomass       = 797.62 		 LAI            =   0.81
+     		Stover N Conc =   1.99 		 Extractable SW = 108.56
 12 April 1984(Day of year=103), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
      Flowering (DAS)       = 68 		 Maturity (DAS)          = 124
      Flowering day         = 46 		 Maturity day            = 102
-     Maximum LAI           = 1.7 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 8758.3
-     Green above ground biomass    (kg/ha) = 7554.8
-     Senesced above ground biomass (kg/ha) = 1203.5
-     Stover (kg/ha)        = 5044.0 	 Grain yield (kg/ha)     = 3714.3
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4395.6
-     Weight 1000 grains(g) = 240.9 		 Grains/m^2              = 1541.8
-     Grains/head           = 367.1
-     Grain N percent    (%)     =      0.51 	 Grain N            (kg/ha) =    18.80
-     Total N content    (kg/ha) =     40.01 	 Senesced N content (kg/ha) =    12.16
-     Green N content    (kg/ha) =     18.36
-     Grain P percent    (%)     =      0.17 	 Grain P uptake     (kg/ha) =     6.43
-     Total P content    (kg/ha) =      8.07 	 Senesced P content (kg/ha) =     0.85
-     Green P content    (kg/ha) =      2.63 
+     Maximum LAI           = 1.6 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 7976.2
+     Green above ground biomass    (kg/ha) = 6823.4
+     Senesced above ground biomass (kg/ha) = 1152.9
+     Stover (kg/ha)        = 4841.8 	 Grain yield (kg/ha)     = 3134.5
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3709.4
+     Weight 1000 grains(g) = 228.8 		 Grains/m^2              = 1370.2
+     Grains/head           = 326.2
+     Grain N percent    (%)     =      0.56 	 Grain N            (kg/ha) =    17.46
+     Total N content    (kg/ha) =     37.38 	 Senesced N content (kg/ha) =    11.24
+     Green N content    (kg/ha) =     18.38
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.03
+     Total P content    (kg/ha) =      7.33 	 Senesced P content (kg/ha) =     0.82
+     Green P content    (kg/ha) =      8.36 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.9          0.9        0.9
-        Floral initiation   to Flag leaf                 1.0          1.0        0.9
+        Floral initiation   to Flag leaf                 1.0          1.0        0.8
         Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.6
+        Flowering           to Start grain fill          0.9          0.9        0.5
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3714.26		    0.00
-                         N  (kg/ha) =                 18.80		    0.00
+                         DM (kg/ha) =               3134.45		    0.00
+                         N  (kg/ha) =                 17.46		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               5043.99		 1867.11
-                         N  (kg/ha) =                 21.21		    9.31
-                         P  (kg/ha) =                  1.64		    1.84
+                         DM (kg/ha) =               4841.79		 1866.75
+                         N  (kg/ha) =                 19.91		    9.71
+                         P  (kg/ha) =                  7.30		    1.88
 12 May 1984(Day of year=133), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
 12 May 1984(Day of year=133), SurfaceOM: 
@@ -1834,19 +1834,19 @@ Title                  = p80N13
 27 November 1984(Day of year=332), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 106.95
+     		Stover N Conc =   0.00 		 Extractable SW = 110.23
 30 November 1984(Day of year=335), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 101.77
+     		Stover N Conc =   0.00 		 Extractable SW = 102.24
 16 December 1984(Day of year=351), Maize: 
      Stage 4 EndOfJuvenile  DAS = 20
-     		Biomass       =   8.01 		 LAI            =   0.10
-     		Stover N Conc =   0.18 		 Extractable SW = 115.71
+     		Biomass       =   7.96 		 LAI            =   0.10
+     		Stover N Conc =   0.19 		 Extractable SW = 115.74
 19 December 1984(Day of year=354), Maize: 
      Stage 5 FloralInitiation  DAS = 23
-     		Biomass       =  12.85 		 LAI            =   0.14
-     		Stover N Conc =   0.29 		 Extractable SW = 103.85
+     		Biomass       =  12.77 		 LAI            =   0.14
+     		Stover N Conc =   0.29 		 Extractable SW = 103.84
 7 January 1985(Day of year=7), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 7 January 1985(Day of year=7), Fertiliser: 
@@ -1854,72 +1854,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-2 February 1985(Day of year=33), Maize: 
-     Stage 6 FlagLeaf  DAS = 68
-     		Biomass       = 447.32 		 LAI            =   1.58
-     		Stover N Conc =   2.79 		 Extractable SW = 130.46
-3 February 1985(Day of year=34), Maize: 
-     Stage 7 Flowering  DAS = 69
-     		Biomass       = 460.82 		 LAI            =   1.59
-     		Stover N Conc =   2.83 		 Extractable SW = 130.53
-17 February 1985(Day of year=48), Maize: 
-     Stage 8 StartGrainFill  DAS = 83
-     		Biomass       = 635.54 		 LAI            =   1.58
-     		Stover N Conc =   3.10 		 Extractable SW = 105.31
-28 March 1985(Day of year=87), Maize: 
-     Stage 9 EndGrainFill  DAS = 122
-     		Biomass       = 851.33 		 LAI            =   0.83
-     		Stover N Conc =   2.16 		 Extractable SW = 118.71
-31 March 1985(Day of year=90), Maize: 
-     Stage 10 Maturity  DAS = 125
-     		Biomass       = 855.30 		 LAI            =   0.81
-     		Stover N Conc =   2.11 		 Extractable SW = 114.62
-1 April 1985(Day of year=91), Maize: 
-     Stage 11 HarvestRipe  DAS = 126
-     		Biomass       = 856.53 		 LAI            =   0.80
-     		Stover N Conc =   2.11 		 Extractable SW = 112.66
-1 April 1985(Day of year=91), Manager: 
+4 February 1985(Day of year=35), Maize: 
+     Stage 6 FlagLeaf  DAS = 70
+     		Biomass       = 452.78 		 LAI            =   1.63
+     		Stover N Conc =   2.61 		 Extractable SW = 130.39
+5 February 1985(Day of year=36), Maize: 
+     Stage 7 Flowering  DAS = 71
+     		Biomass       = 464.41 		 LAI            =   1.62
+     		Stover N Conc =   2.64 		 Extractable SW = 130.99
+18 February 1985(Day of year=49), Maize: 
+     Stage 8 StartGrainFill  DAS = 84
+     		Biomass       = 596.32 		 LAI            =   1.62
+     		Stover N Conc =   2.89 		 Extractable SW = 104.05
+30 March 1985(Day of year=89), Maize: 
+     Stage 9 EndGrainFill  DAS = 124
+     		Biomass       = 785.70 		 LAI            =   0.87
+     		Stover N Conc =   2.06 		 Extractable SW = 116.92
+2 April 1985(Day of year=92), Maize: 
+     Stage 10 Maturity  DAS = 127
+     		Biomass       = 788.81 		 LAI            =   0.86
+     		Stover N Conc =   2.05 		 Extractable SW = 111.66
+3 April 1985(Day of year=93), Maize: 
+     Stage 11 HarvestRipe  DAS = 128
+     		Biomass       = 788.81 		 LAI            =   0.86
+     		Stover N Conc =   2.05 		 Extractable SW = 110.86
+3 April 1985(Day of year=93), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 69 		 Maturity (DAS)          = 125
-     Flowering day         = 34 		 Maturity day            = 90
+     Flowering (DAS)       = 71 		 Maturity (DAS)          = 127
+     Flowering day         = 36 		 Maturity day            = 92
      Maximum LAI           = 1.6 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 8565.3
-     Green above ground biomass    (kg/ha) = 7443.1
-     Senesced above ground biomass (kg/ha) = 1122.2
-     Stover (kg/ha)        = 4983.3 	 Grain yield (kg/ha)     = 3581.9
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4239.0
-     Weight 1000 grains(g) = 241.3 		 Grains/m^2              = 1484.4
-     Grains/head           = 353.4
-     Grain N percent    (%)     =      0.40 	 Grain N            (kg/ha) =    14.21
-     Total N content    (kg/ha) =     35.33 	 Senesced N content (kg/ha) =    11.86
-     Green N content    (kg/ha) =     16.85
-     Grain P percent    (%)     =      0.14 	 Grain P uptake     (kg/ha) =     5.14
-     Total P content    (kg/ha) =      6.72 	 Senesced P content (kg/ha) =     0.80
-     Green P content    (kg/ha) =      2.46 
+     Total above ground biomass    (kg/ha) = 7888.1
+     Green above ground biomass    (kg/ha) = 6792.2
+     Senesced above ground biomass (kg/ha) = 1095.9
+     Stover (kg/ha)        = 5034.9 	 Grain yield (kg/ha)     = 2853.2
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3376.5
+     Weight 1000 grains(g) = 232.7 		 Grains/m^2              = 1226.3
+     Grains/head           = 292.0
+     Grain N percent    (%)     =      0.46 	 Grain N            (kg/ha) =    13.23
+     Total N content    (kg/ha) =     33.71 	 Senesced N content (kg/ha) =    11.06
+     Green N content    (kg/ha) =     17.89
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      7.17 	 Senesced P content (kg/ha) =     0.81
+     Green P content    (kg/ha) =      8.42 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         1.0          1.0        1.0
         Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        0.9
-        Flowering           to Start grain fill          1.0          1.0        0.6
+        Flag leaf           to Flowering                 1.0          1.0        1.0
+        Flowering           to Start grain fill          0.9          0.9        0.5
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3581.95		    0.00
-                         N  (kg/ha) =                 14.21		    0.00
+                         DM (kg/ha) =               2853.17		    0.00
+                         N  (kg/ha) =                 13.23		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4983.34		 1700.04
-                         N  (kg/ha) =                 21.12		    7.59
-                         P  (kg/ha) =                  1.58		    1.68
-1 May 1985(Day of year=121), Manager: 
+                         DM (kg/ha) =               5034.91		 1894.02
+                         N  (kg/ha) =                 20.48		    8.47
+                         P  (kg/ha) =                  7.17		    2.06
+3 May 1985(Day of year=123), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-1 May 1985(Day of year=121), SurfaceOM: 
+3 May 1985(Day of year=123), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -1990,19 +1990,19 @@ Title                  = p80N13
 6 December 1985(Day of year=340), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 108.96
+     		Stover N Conc =   0.00 		 Extractable SW = 109.09
 9 December 1985(Day of year=343), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 112.40
+     		Stover N Conc =   0.00 		 Extractable SW = 111.64
 27 December 1985(Day of year=361), Maize: 
      Stage 4 EndOfJuvenile  DAS = 22
-     		Biomass       =   8.60 		 LAI            =   0.11
-     		Stover N Conc =   0.21 		 Extractable SW = 114.38
+     		Biomass       =   8.56 		 LAI            =   0.11
+     		Stover N Conc =   0.21 		 Extractable SW = 114.32
 29 December 1985(Day of year=363), Maize: 
      Stage 5 FloralInitiation  DAS = 24
-     		Biomass       =  12.29 		 LAI            =   0.14
-     		Stover N Conc =   0.29 		 Extractable SW = 102.07
+     		Biomass       =  12.23 		 LAI            =   0.14
+     		Stover N Conc =   0.29 		 Extractable SW = 102.00
 16 January 1986(Day of year=16), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 16 January 1986(Day of year=16), Fertiliser: 
@@ -2012,70 +2012,70 @@ Title                  = p80N13
                                          added at depth    5.00 (layer   1)
 13 February 1986(Day of year=44), Maize: 
      Stage 6 FlagLeaf  DAS = 70
-     		Biomass       = 413.88 		 LAI            =   1.85
-     		Stover N Conc =   2.84 		 Extractable SW = 119.98
+     		Biomass       = 386.53 		 LAI            =   1.79
+     		Stover N Conc =   2.57 		 Extractable SW = 120.51
 14 February 1986(Day of year=45), Maize: 
      Stage 7 Flowering  DAS = 71
-     		Biomass       = 428.22 		 LAI            =   1.86
-     		Stover N Conc =   2.88 		 Extractable SW = 115.76
-27 February 1986(Day of year=58), Maize: 
-     Stage 8 StartGrainFill  DAS = 84
-     		Biomass       = 588.66 		 LAI            =   1.83
-     		Stover N Conc =   3.12 		 Extractable SW = 126.62
+     		Biomass       = 398.20 		 LAI            =   1.79
+     		Stover N Conc =   2.60 		 Extractable SW = 116.58
+28 February 1986(Day of year=59), Maize: 
+     Stage 8 StartGrainFill  DAS = 85
+     		Biomass       = 543.67 		 LAI            =   1.79
+     		Stover N Conc =   2.86 		 Extractable SW = 123.99
 10 April 1986(Day of year=100), Maize: 
      Stage 9 EndGrainFill  DAS = 126
-     		Biomass       = 800.54 		 LAI            =   0.93
-     		Stover N Conc =   2.11 		 Extractable SW = 108.25
-12 April 1986(Day of year=102), Maize: 
-     Stage 10 Maturity  DAS = 128
-     		Biomass       = 803.25 		 LAI            =   0.92
-     		Stover N Conc =   2.07 		 Extractable SW = 106.30
+     		Biomass       = 718.59 		 LAI            =   0.92
+     		Stover N Conc =   1.97 		 Extractable SW = 109.08
 13 April 1986(Day of year=103), Maize: 
-     Stage 11 HarvestRipe  DAS = 129
-     		Biomass       = 804.62 		 LAI            =   0.92
-     		Stover N Conc =   2.05 		 Extractable SW = 105.45
-13 April 1986(Day of year=103), Manager: 
+     Stage 10 Maturity  DAS = 129
+     		Biomass       = 721.71 		 LAI            =   0.91
+     		Stover N Conc =   1.96 		 Extractable SW = 106.46
+14 April 1986(Day of year=104), Maize: 
+     Stage 11 HarvestRipe  DAS = 130
+     		Biomass       = 721.71 		 LAI            =   0.91
+     		Stover N Conc =   1.96 		 Extractable SW = 105.72
+14 April 1986(Day of year=104), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 71 		 Maturity (DAS)          = 128
-     Flowering day         = 45 		 Maturity day            = 102
-     Maximum LAI           = 1.9 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 8046.2
-     Green above ground biomass    (kg/ha) = 7093.9
-     Senesced above ground biomass (kg/ha) = 952.3
-     Stover (kg/ha)        = 4477.3 	 Grain yield (kg/ha)     = 3569.0
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4223.6
-     Weight 1000 grains(g) = 245.0 		 Grains/m^2              = 1456.9
-     Grains/head           = 346.9
-     Grain N percent    (%)     =      0.43 	 Grain N            (kg/ha) =    15.32
-     Total N content    (kg/ha) =     35.81 	 Senesced N content (kg/ha) =    11.42
-     Green N content    (kg/ha) =     16.44
-     Grain P percent    (%)     =      0.14 	 Grain P uptake     (kg/ha) =     5.16
-     Total P content    (kg/ha) =      6.59 	 Senesced P content (kg/ha) =     0.70
-     Green P content    (kg/ha) =      2.28 
+     Flowering (DAS)       = 71 		 Maturity (DAS)          = 129
+     Flowering day         = 45 		 Maturity day            = 103
+     Maximum LAI           = 1.8 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 7217.1
+     Green above ground biomass    (kg/ha) = 6307.1
+     Senesced above ground biomass (kg/ha) = 910.0
+     Stover (kg/ha)        = 4396.8 	 Grain yield (kg/ha)     = 2820.2
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3337.6
+     Weight 1000 grains(g) = 229.4 		 Grains/m^2              = 1229.1
+     Grains/head           = 292.7
+     Grain N percent    (%)     =      0.48 	 Grain N            (kg/ha) =    13.63
+     Total N content    (kg/ha) =     33.20 	 Senesced N content (kg/ha) =    10.68
+     Green N content    (kg/ha) =     16.69
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.01
+     Total P content    (kg/ha) =      6.51 	 Senesced P content (kg/ha) =     0.69
+     Green P content    (kg/ha) =      7.51 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.9          0.9        0.9
-        Floral initiation   to Flag leaf                 1.0          1.0        0.9
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.6
+        Floral initiation   to Flag leaf                 1.0          1.0        0.8
+        Flag leaf           to Flowering                 1.0          1.0        0.7
+        Flowering           to Start grain fill          1.0          1.0        0.6
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3568.97		    0.00
-                         N  (kg/ha) =                 15.32		    0.00
+                         DM (kg/ha) =               2820.24		    0.00
+                         N  (kg/ha) =                 13.63		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4477.25		 1563.71
-                         N  (kg/ha) =                 20.50		    7.36
-                         P  (kg/ha) =                  1.43		    1.55
-13 May 1986(Day of year=133), Manager: 
+                         DM (kg/ha) =               4396.84		 1683.86
+                         N  (kg/ha) =                 19.57		    7.80
+                         P  (kg/ha) =                  6.50		    1.70
+14 May 1986(Day of year=134), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-13 May 1986(Day of year=133), SurfaceOM: 
+14 May 1986(Day of year=134), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -2146,19 +2146,19 @@ Title                  = p80N13
 2 December 1986(Day of year=336), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 103.96
+     		Stover N Conc =   0.00 		 Extractable SW = 107.01
 5 December 1986(Day of year=339), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 107.93
+     		Stover N Conc =   0.00 		 Extractable SW = 108.41
 23 December 1986(Day of year=357), Maize: 
      Stage 4 EndOfJuvenile  DAS = 22
-     		Biomass       =  10.43 		 LAI            =   0.11
-     		Stover N Conc =   0.21 		 Extractable SW =  89.35
+     		Biomass       =  10.38 		 LAI            =   0.11
+     		Stover N Conc =   0.21 		 Extractable SW =  89.36
 25 December 1986(Day of year=359), Maize: 
      Stage 5 FloralInitiation  DAS = 24
-     		Biomass       =  14.93 		 LAI            =   0.14
-     		Stover N Conc =   0.29 		 Extractable SW =  94.60
+     		Biomass       =  14.85 		 LAI            =   0.14
+     		Stover N Conc =   0.29 		 Extractable SW =  94.62
 12 January 1987(Day of year=12), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 12 January 1987(Day of year=12), Fertiliser: 
@@ -2168,70 +2168,70 @@ Title                  = p80N13
                                          added at depth    5.00 (layer   1)
 6 February 1987(Day of year=37), Maize: 
      Stage 6 FlagLeaf  DAS = 67
-     		Biomass       = 412.57 		 LAI            =   1.70
-     		Stover N Conc =   2.72 		 Extractable SW = 130.73
+     		Biomass       = 385.63 		 LAI            =   1.67
+     		Stover N Conc =   2.46 		 Extractable SW = 130.73
 7 February 1987(Day of year=38), Maize: 
      Stage 7 Flowering  DAS = 68
-     		Biomass       = 424.46 		 LAI            =   1.73
-     		Stover N Conc =   2.76 		 Extractable SW = 125.99
+     		Biomass       = 395.50 		 LAI            =   1.67
+     		Stover N Conc =   2.49 		 Extractable SW = 126.28
 19 February 1987(Day of year=50), Maize: 
      Stage 8 StartGrainFill  DAS = 80
-     		Biomass       = 578.11 		 LAI            =   1.72
-     		Stover N Conc =   3.05 		 Extractable SW =  97.67
-27 March 1987(Day of year=86), Maize: 
-     Stage 9 EndGrainFill  DAS = 116
-     		Biomass       = 768.08 		 LAI            =   0.89
-     		Stover N Conc =   2.00 		 Extractable SW =  99.20
-30 March 1987(Day of year=89), Maize: 
-     Stage 10 Maturity  DAS = 119
-     		Biomass       = 771.57 		 LAI            =   0.88
-     		Stover N Conc =   1.95 		 Extractable SW = 101.97
+     		Biomass       = 521.74 		 LAI            =   1.67
+     		Stover N Conc =   2.79 		 Extractable SW = 100.35
+28 March 1987(Day of year=87), Maize: 
+     Stage 9 EndGrainFill  DAS = 117
+     		Biomass       = 698.70 		 LAI            =   0.86
+     		Stover N Conc =   1.83 		 Extractable SW = 103.55
 31 March 1987(Day of year=90), Maize: 
-     Stage 11 HarvestRipe  DAS = 120
-     		Biomass       = 772.46 		 LAI            =   0.88
-     		Stover N Conc =   1.94 		 Extractable SW = 100.00
-31 March 1987(Day of year=90), Manager: 
+     Stage 10 Maturity  DAS = 120
+     		Biomass       = 700.98 		 LAI            =   0.85
+     		Stover N Conc =   1.81 		 Extractable SW = 104.42
+1 April 1987(Day of year=91), Maize: 
+     Stage 11 HarvestRipe  DAS = 121
+     		Biomass       = 700.98 		 LAI            =   0.85
+     		Stover N Conc =   1.81 		 Extractable SW = 102.50
+1 April 1987(Day of year=91), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 68 		 Maturity (DAS)          = 119
-     Flowering day         = 38 		 Maturity day            = 89
+     Flowering (DAS)       = 68 		 Maturity (DAS)          = 120
+     Flowering day         = 38 		 Maturity day            = 90
      Maximum LAI           = 1.7 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 7724.6
-     Green above ground biomass    (kg/ha) = 6731.8
-     Senesced above ground biomass (kg/ha) = 992.7
-     Stover (kg/ha)        = 4135.9 	 Grain yield (kg/ha)     = 3588.7
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4247.0
-     Weight 1000 grains(g) = 236.3 		 Grains/m^2              = 1518.9
-     Grains/head           = 361.6
-     Grain N percent    (%)     =      0.38 	 Grain N            (kg/ha) =    13.54
-     Total N content    (kg/ha) =     32.96 	 Senesced N content (kg/ha) =    11.10
-     Green N content    (kg/ha) =     15.48
-     Grain P percent    (%)     =      0.16 	 Grain P uptake     (kg/ha) =     5.73
-     Total P content    (kg/ha) =      7.10 	 Senesced P content (kg/ha) =     0.70
-     Green P content    (kg/ha) =      2.23 
+     Total above ground biomass    (kg/ha) = 7009.8
+     Green above ground biomass    (kg/ha) = 6052.0
+     Senesced above ground biomass (kg/ha) = 957.8
+     Stover (kg/ha)        = 3989.6 	 Grain yield (kg/ha)     = 3020.2
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3574.2
+     Weight 1000 grains(g) = 229.7 		 Grains/m^2              = 1314.8
+     Grains/head           = 313.1
+     Grain N percent    (%)     =      0.42 	 Grain N            (kg/ha) =    12.58
+     Total N content    (kg/ha) =     30.69 	 Senesced N content (kg/ha) =    10.33
+     Green N content    (kg/ha) =     15.25
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      6.05 	 Senesced P content (kg/ha) =     0.68
+     Green P content    (kg/ha) =      7.07 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.9          0.9        0.9
         Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.6
+        Flag leaf           to Flowering                 1.0          1.0        0.8
+        Flowering           to Start grain fill          0.9          0.9        0.5
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3588.68		    0.00
-                         N  (kg/ha) =                 13.54		    0.00
+                         DM (kg/ha) =               3020.19		    0.00
+                         N  (kg/ha) =                 12.58		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4135.88		 1582.97
-                         N  (kg/ha) =                 19.42		    7.15
-                         P  (kg/ha) =                  1.37		    1.56
-30 April 1987(Day of year=120), Manager: 
+                         DM (kg/ha) =               3989.65		 1596.22
+                         N  (kg/ha) =                 18.11		    7.47
+                         P  (kg/ha) =                  6.05		    1.71
+1 May 1987(Day of year=121), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-30 April 1987(Day of year=120), SurfaceOM: 
+1 May 1987(Day of year=121), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -2302,19 +2302,19 @@ Title                  = p80N13
 3 December 1987(Day of year=337), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  92.47
+     		Stover N Conc =   0.00 		 Extractable SW =  99.04
 6 December 1987(Day of year=340), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  94.19
+     		Stover N Conc =   0.00 		 Extractable SW =  98.30
 22 December 1987(Day of year=356), Maize: 
      Stage 4 EndOfJuvenile  DAS = 20
-     		Biomass       =   7.75 		 LAI            =   0.11
-     		Stover N Conc =   0.20 		 Extractable SW =  97.24
+     		Biomass       =   7.71 		 LAI            =   0.11
+     		Stover N Conc =   0.20 		 Extractable SW =  99.39
 24 December 1987(Day of year=358), Maize: 
      Stage 5 FloralInitiation  DAS = 22
-     		Biomass       =  12.40 		 LAI            =   0.14
-     		Stover N Conc =   0.28 		 Extractable SW =  88.60
+     		Biomass       =  12.33 		 LAI            =   0.14
+     		Stover N Conc =   0.29 		 Extractable SW =  89.32
 13 January 1988(Day of year=13), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 13 January 1988(Day of year=13), Fertiliser: 
@@ -2324,28 +2324,28 @@ Title                  = p80N13
                                          added at depth    5.00 (layer   1)
 4 February 1988(Day of year=35), Maize: 
      Stage 6 FlagLeaf  DAS = 64
-     		Biomass       = 445.01 		 LAI            =   1.87
-     		Stover N Conc =   2.95 		 Extractable SW = 103.94
+     		Biomass       = 430.58 		 LAI            =   1.89
+     		Stover N Conc =   2.79 		 Extractable SW = 105.80
 5 February 1988(Day of year=36), Maize: 
      Stage 7 Flowering  DAS = 65
-     		Biomass       = 465.24 		 LAI            =   1.88
-     		Stover N Conc =   2.99 		 Extractable SW =  98.95
+     		Biomass       = 448.64 		 LAI            =   1.87
+     		Stover N Conc =   2.82 		 Extractable SW = 101.20
 18 February 1988(Day of year=49), Maize: 
      Stage 8 StartGrainFill  DAS = 78
-     		Biomass       = 626.88 		 LAI            =   1.83
-     		Stover N Conc =   3.25 		 Extractable SW = 119.48
+     		Biomass       = 597.99 		 LAI            =   1.87
+     		Stover N Conc =   3.09 		 Extractable SW = 123.35
 28 March 1988(Day of year=88), Maize: 
      Stage 9 EndGrainFill  DAS = 117
-     		Biomass       = 804.62 		 LAI            =   0.94
-     		Stover N Conc =   2.10 		 Extractable SW = 108.60
+     		Biomass       = 764.93 		 LAI            =   0.93
+     		Stover N Conc =   2.01 		 Extractable SW = 109.13
 31 March 1988(Day of year=91), Maize: 
      Stage 10 Maturity  DAS = 120
-     		Biomass       = 808.41 		 LAI            =   0.91
-     		Stover N Conc =   2.05 		 Extractable SW = 106.22
+     		Biomass       = 767.97 		 LAI            =   0.92
+     		Stover N Conc =   1.99 		 Extractable SW = 106.87
 1 April 1988(Day of year=92), Maize: 
      Stage 11 HarvestRipe  DAS = 121
-     		Biomass       = 809.55 		 LAI            =   0.90
-     		Stover N Conc =   2.04 		 Extractable SW = 105.48
+     		Biomass       = 767.97 		 LAI            =   0.92
+     		Stover N Conc =   1.99 		 Extractable SW = 106.16
 1 April 1988(Day of year=92), Manager: 
      Manager sending message :- maize harvest
      
@@ -2353,38 +2353,38 @@ Title                  = p80N13
      Flowering (DAS)       = 65 		 Maturity (DAS)          = 120
      Flowering day         = 36 		 Maturity day            = 91
      Maximum LAI           = 1.9 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 8095.5
-     Green above ground biomass    (kg/ha) = 7061.7
-     Senesced above ground biomass (kg/ha) = 1033.8
-     Stover (kg/ha)        = 4555.3 	 Grain yield (kg/ha)     = 3540.2
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4189.6
-     Weight 1000 grains(g) = 239.6 		 Grains/m^2              = 1477.5
-     Grains/head           = 351.8
-     Grain N percent    (%)     =      0.51 	 Grain N            (kg/ha) =    18.12
-     Total N content    (kg/ha) =     38.56 	 Senesced N content (kg/ha) =    11.60
-     Green N content    (kg/ha) =     17.45
-     Grain P percent    (%)     =      0.19 	 Grain P uptake     (kg/ha) =     6.72
-     Total P content    (kg/ha) =      8.23 	 Senesced P content (kg/ha) =     0.75
-     Green P content    (kg/ha) =      2.48 
+     Total above ground biomass    (kg/ha) = 7679.7
+     Green above ground biomass    (kg/ha) = 6684.9
+     Senesced above ground biomass (kg/ha) = 994.8
+     Stover (kg/ha)        = 4530.0 	 Grain yield (kg/ha)     = 3149.7
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3727.5
+     Weight 1000 grains(g) = 229.3 		 Grains/m^2              = 1373.4
+     Grains/head           = 327.0
+     Grain N percent    (%)     =      0.54 	 Grain N            (kg/ha) =    16.91
+     Total N content    (kg/ha) =     36.79 	 Senesced N content (kg/ha) =    11.01
+     Green N content    (kg/ha) =     17.76
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.02
+     Total P content    (kg/ha) =      7.12 	 Senesced P content (kg/ha) =     0.74
+     Green P content    (kg/ha) =      8.19 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.9          0.9        0.9
-        Floral initiation   to Flag leaf                 1.0          1.0        0.9
-        Flag leaf           to Flowering                 1.0          1.0        1.0
+        Floral initiation   to Flag leaf                 1.0          1.0        0.8
+        Flag leaf           to Flowering                 1.0          1.0        0.9
         Flowering           to Start grain fill          0.9          0.9        0.6
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3540.25		    0.00
-                         N  (kg/ha) =                 18.12		    0.00
+                         DM (kg/ha) =               3149.72		    0.00
+                         N  (kg/ha) =                 16.91		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4555.27		 1751.92
-                         N  (kg/ha) =                 20.44		    8.61
-                         P  (kg/ha) =                  1.50		    1.73
+                         DM (kg/ha) =               4529.96		 1836.49
+                         N  (kg/ha) =                 19.88		    8.89
+                         P  (kg/ha) =                  7.10		    1.83
 1 May 1988(Day of year=122), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
 1 May 1988(Day of year=122), SurfaceOM: 
@@ -2458,19 +2458,19 @@ Title                  = p80N13
 1 December 1988(Day of year=336), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 105.43
+     		Stover N Conc =   0.00 		 Extractable SW = 110.02
 4 December 1988(Day of year=339), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 106.90
+     		Stover N Conc =   0.00 		 Extractable SW = 107.39
 22 December 1988(Day of year=357), Maize: 
      Stage 4 EndOfJuvenile  DAS = 22
-     		Biomass       =   8.84 		 LAI            =   0.11
-     		Stover N Conc =   0.20 		 Extractable SW =  94.35
+     		Biomass       =   8.80 		 LAI            =   0.11
+     		Stover N Conc =   0.20 		 Extractable SW =  94.36
 25 December 1988(Day of year=360), Maize: 
      Stage 5 FloralInitiation  DAS = 25
-     		Biomass       =  16.72 		 LAI            =   0.16
-     		Stover N Conc =   0.33 		 Extractable SW = 100.99
+     		Biomass       =  16.62 		 LAI            =   0.16
+     		Stover N Conc =   0.33 		 Extractable SW = 101.00
 11 January 1989(Day of year=11), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 11 January 1989(Day of year=11), Fertiliser: 
@@ -2478,72 +2478,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-8 February 1989(Day of year=39), Maize: 
-     Stage 6 FlagLeaf  DAS = 70
-     		Biomass       = 398.74 		 LAI            =   1.77
-     		Stover N Conc =   2.83 		 Extractable SW = 124.71
 9 February 1989(Day of year=40), Maize: 
-     Stage 7 Flowering  DAS = 71
-     		Biomass       = 406.67 		 LAI            =   1.79
-     		Stover N Conc =   2.86 		 Extractable SW = 121.08
-22 February 1989(Day of year=53), Maize: 
-     Stage 8 StartGrainFill  DAS = 84
-     		Biomass       = 556.66 		 LAI            =   1.77
-     		Stover N Conc =   3.18 		 Extractable SW = 131.70
-5 April 1989(Day of year=95), Maize: 
-     Stage 9 EndGrainFill  DAS = 126
-     		Biomass       = 730.00 		 LAI            =   0.86
-     		Stover N Conc =   2.14 		 Extractable SW = 116.11
-8 April 1989(Day of year=98), Maize: 
-     Stage 10 Maturity  DAS = 129
-     		Biomass       = 733.48 		 LAI            =   0.84
-     		Stover N Conc =   2.10 		 Extractable SW = 111.15
+     Stage 6 FlagLeaf  DAS = 71
+     		Biomass       = 369.76 		 LAI            =   1.71
+     		Stover N Conc =   2.51 		 Extractable SW = 121.36
+10 February 1989(Day of year=41), Maize: 
+     Stage 7 Flowering  DAS = 72
+     		Biomass       = 379.22 		 LAI            =   1.71
+     		Stover N Conc =   2.54 		 Extractable SW = 117.69
+23 February 1989(Day of year=54), Maize: 
+     Stage 8 StartGrainFill  DAS = 85
+     		Biomass       = 494.84 		 LAI            =   1.71
+     		Stover N Conc =   2.85 		 Extractable SW = 131.59
+6 April 1989(Day of year=96), Maize: 
+     Stage 9 EndGrainFill  DAS = 127
+     		Biomass       = 655.66 		 LAI            =   0.90
+     		Stover N Conc =   2.05 		 Extractable SW = 109.15
 9 April 1989(Day of year=99), Maize: 
-     Stage 11 HarvestRipe  DAS = 130
-     		Biomass       = 734.39 		 LAI            =   0.83
-     		Stover N Conc =   2.10 		 Extractable SW = 110.01
-9 April 1989(Day of year=99), Manager: 
+     Stage 10 Maturity  DAS = 130
+     		Biomass       = 658.71 		 LAI            =   0.88
+     		Stover N Conc =   2.04 		 Extractable SW = 104.93
+10 April 1989(Day of year=100), Maize: 
+     Stage 11 HarvestRipe  DAS = 131
+     		Biomass       = 658.71 		 LAI            =   0.88
+     		Stover N Conc =   2.04 		 Extractable SW = 104.07
+10 April 1989(Day of year=100), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 71 		 Maturity (DAS)          = 129
-     Flowering day         = 40 		 Maturity day            = 98
-     Maximum LAI           = 1.8 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 7343.9
-     Green above ground biomass    (kg/ha) = 6339.8
-     Senesced above ground biomass (kg/ha) = 1004.1
-     Stover (kg/ha)        = 4580.6 	 Grain yield (kg/ha)     = 2763.4
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3270.2
-     Weight 1000 grains(g) = 244.3 		 Grains/m^2              = 1131.0
-     Grains/head           = 269.3
-     Grain N percent    (%)     =      0.56 	 Grain N            (kg/ha) =    15.37
-     Total N content    (kg/ha) =     36.34 	 Senesced N content (kg/ha) =    12.20
-     Green N content    (kg/ha) =     16.91
-     Grain P percent    (%)     =      0.20 	 Grain P uptake     (kg/ha) =     5.55
-     Total P content    (kg/ha) =      6.99 	 Senesced P content (kg/ha) =     0.74
-     Green P content    (kg/ha) =      2.32 
+     Flowering (DAS)       = 72 		 Maturity (DAS)          = 130
+     Flowering day         = 41 		 Maturity day            = 99
+     Maximum LAI           = 1.7 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 6587.1
+     Green above ground biomass    (kg/ha) = 5662.8
+     Senesced above ground biomass (kg/ha) = 924.2
+     Stover (kg/ha)        = 4741.2 	 Grain yield (kg/ha)     = 1845.8
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 2184.4
+     Weight 1000 grains(g) = 234.0 		 Grains/m^2              = 788.9
+     Grains/head           = 187.8
+     Grain N percent    (%)     =      0.66 	 Grain N            (kg/ha) =    12.10
+     Total N content    (kg/ha) =     32.52 	 Senesced N content (kg/ha) =    10.94
+     Green N content    (kg/ha) =     17.84
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      6.01 	 Senesced P content (kg/ha) =     0.71
+     Green P content    (kg/ha) =      7.21 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         1.0          1.0        0.9
         Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.7
+        Flag leaf           to Flowering                 1.0          1.0        0.8
+        Flowering           to Start grain fill          0.9          0.9        0.5
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               2763.35		    0.00
-                         N  (kg/ha) =                 15.37		    0.00
+                         DM (kg/ha) =               1845.81		    0.00
+                         N  (kg/ha) =                 12.10		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4580.58		 1635.52
-                         N  (kg/ha) =                 20.97		    8.15
-                         P  (kg/ha) =                  1.44		    1.62
-9 May 1989(Day of year=129), Manager: 
+                         DM (kg/ha) =               4741.25		 1897.08
+                         N  (kg/ha) =                 20.42		    8.36
+                         P  (kg/ha) =                  6.01		    1.91
+10 May 1989(Day of year=130), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-9 May 1989(Day of year=129), SurfaceOM: 
+10 May 1989(Day of year=130), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -2607,7 +2607,7 @@ Title                  = p80N13
 16 November 1989(Day of year=320), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 108.37
+     		Stover N Conc =   0.00 		 Extractable SW = 103.79
 17 November 1989(Day of year=321), Manager: 
      Manager sending message :- fertiliser apply  amount = 80, depth = 50, type = broadcast_p
 17 November 1989(Day of year=321), Fertiliser: 
@@ -2618,15 +2618,15 @@ Title                  = p80N13
 19 November 1989(Day of year=323), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 103.80
+     		Stover N Conc =   0.00 		 Extractable SW =  98.45
 5 December 1989(Day of year=339), Maize: 
      Stage 4 EndOfJuvenile  DAS = 20
-     		Biomass       =   9.10 		 LAI            =   0.10
-     		Stover N Conc =   0.19 		 Extractable SW = 104.39
+     		Biomass       =   9.03 		 LAI            =   0.10
+     		Stover N Conc =   0.19 		 Extractable SW = 100.59
 7 December 1989(Day of year=341), Maize: 
      Stage 5 FloralInitiation  DAS = 22
-     		Biomass       =  13.56 		 LAI            =   0.14
-     		Stover N Conc =   0.27 		 Extractable SW =  89.10
+     		Biomass       =  13.46 		 LAI            =   0.14
+     		Stover N Conc =   0.27 		 Extractable SW =  87.03
 27 December 1989(Day of year=361), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 27 December 1989(Day of year=361), Fertiliser: 
@@ -2634,72 +2634,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-19 January 1990(Day of year=19), Maize: 
-     Stage 6 FlagLeaf  DAS = 65
-     		Biomass       = 363.02 		 LAI            =   1.53
-     		Stover N Conc =   2.52 		 Extractable SW = 115.90
-20 January 1990(Day of year=20), Maize: 
-     Stage 7 Flowering  DAS = 66
-     		Biomass       = 377.27 		 LAI            =   1.54
-     		Stover N Conc =   2.56 		 Extractable SW = 111.47
-2 February 1990(Day of year=33), Maize: 
-     Stage 8 StartGrainFill  DAS = 79
-     		Biomass       = 518.24 		 LAI            =   1.52
-     		Stover N Conc =   2.90 		 Extractable SW = 122.68
-14 March 1990(Day of year=73), Maize: 
-     Stage 9 EndGrainFill  DAS = 119
-     		Biomass       = 685.30 		 LAI            =   0.75
-     		Stover N Conc =   1.89 		 Extractable SW = 102.16
-17 March 1990(Day of year=76), Maize: 
-     Stage 10 Maturity  DAS = 122
-     		Biomass       = 688.40 		 LAI            =   0.75
-     		Stover N Conc =   1.85 		 Extractable SW = 100.98
-18 March 1990(Day of year=77), Maize: 
-     Stage 11 HarvestRipe  DAS = 123
-     		Biomass       = 689.17 		 LAI            =   0.74
-     		Stover N Conc =   1.84 		 Extractable SW = 100.62
-18 March 1990(Day of year=77), Manager: 
+27 January 1990(Day of year=27), Maize: 
+     Stage 6 FlagLeaf  DAS = 73
+     		Biomass       = 309.52 		 LAI            =   1.34
+     		Stover N Conc =   2.01 		 Extractable SW = 120.05
+28 January 1990(Day of year=28), Maize: 
+     Stage 7 Flowering  DAS = 74
+     		Biomass       = 316.29 		 LAI            =   1.34
+     		Stover N Conc =   2.04 		 Extractable SW = 119.35
+10 February 1990(Day of year=41), Maize: 
+     Stage 8 StartGrainFill  DAS = 87
+     		Biomass       = 398.21 		 LAI            =   1.34
+     		Stover N Conc =   2.37 		 Extractable SW = 130.86
+22 March 1990(Day of year=81), Maize: 
+     Stage 9 EndGrainFill  DAS = 127
+     		Biomass       = 529.02 		 LAI            =   0.85
+     		Stover N Conc =   1.83 		 Extractable SW =  85.07
+25 March 1990(Day of year=84), Maize: 
+     Stage 10 Maturity  DAS = 130
+     		Biomass       = 533.46 		 LAI            =   0.81
+     		Stover N Conc =   1.82 		 Extractable SW =  83.80
+26 March 1990(Day of year=85), Maize: 
+     Stage 11 HarvestRipe  DAS = 131
+     		Biomass       = 533.46 		 LAI            =   0.81
+     		Stover N Conc =   1.82 		 Extractable SW =  91.33
+26 March 1990(Day of year=85), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 66 		 Maturity (DAS)          = 122
-     Flowering day         = 20 		 Maturity day            = 76
-     Maximum LAI           = 1.5 		 Number of leaves        = 17.3
-     Total above ground biomass    (kg/ha) = 6891.7
-     Green above ground biomass    (kg/ha) = 5913.0
-     Senesced above ground biomass (kg/ha) = 978.7
-     Stover (kg/ha)        = 3782.8 	 Grain yield (kg/ha)     = 3108.9
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3679.2
-     Weight 1000 grains(g) = 243.1 		 Grains/m^2              = 1278.7
-     Grains/head           = 304.5
-     Grain N percent    (%)     =      0.53 	 Grain N            (kg/ha) =    16.37
-     Total N content    (kg/ha) =     34.81 	 Senesced N content (kg/ha) =    11.38
-     Green N content    (kg/ha) =     14.95
-     Grain P percent    (%)     =      0.17 	 Grain P uptake     (kg/ha) =     5.17
-     Total P content    (kg/ha) =      6.42 	 Senesced P content (kg/ha) =     0.69
-     Green P content    (kg/ha) =      1.96 
+     Flowering (DAS)       = 74 		 Maturity (DAS)          = 130
+     Flowering day         = 28 		 Maturity day            = 84
+     Maximum LAI           = 1.3 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 5334.6
+     Green above ground biomass    (kg/ha) = 4535.2
+     Senesced above ground biomass (kg/ha) = 799.4
+     Stover (kg/ha)        = 4298.1 	 Grain yield (kg/ha)     = 1036.5
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 1226.6
+     Weight 1000 grains(g) = 237.2 		 Grains/m^2              = 436.9
+     Grains/head           = 104.0
+     Grain N percent    (%)     =      0.93 	 Grain N            (kg/ha) =     9.65
+     Total N content    (kg/ha) =     27.82 	 Senesced N content (kg/ha) =     9.21
+     Green N content    (kg/ha) =     17.14
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      4.55 	 Senesced P content (kg/ha) =     0.64
+     Green P content    (kg/ha) =      6.17 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.8          0.8        0.8
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.6
-        Start grain fill    to End grain fill            1.0          1.0        0.3
+        Floral initiation   to Flag leaf                 1.0          1.0        0.6
+        Flag leaf           to Flowering                 1.0          1.0        0.7
+        Flowering           to Start grain fill          0.9          0.9        0.4
+        Start grain fill    to End grain fill            1.0          1.0        0.4
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3108.91		    0.00
-                         N  (kg/ha) =                 16.37		    0.00
+                         DM (kg/ha) =               1036.50		    0.00
+                         N  (kg/ha) =                  9.65		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               3782.78		 1412.61
-                         N  (kg/ha) =                 18.44		    7.89
-                         P  (kg/ha) =                  1.25		    1.40
-17 April 1990(Day of year=107), Manager: 
+                         DM (kg/ha) =               4298.08		 2239.93
+                         N  (kg/ha) =                 18.17		    8.17
+                         P  (kg/ha) =                  4.55		    2.25
+25 April 1990(Day of year=115), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-17 April 1990(Day of year=107), SurfaceOM: 
+25 April 1990(Day of year=115), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -2770,19 +2770,19 @@ Title                  = p80N13
 23 November 1990(Day of year=327), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 100.62
+     		Stover N Conc =   0.00 		 Extractable SW =  86.90
 26 November 1990(Day of year=330), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 107.94
+     		Stover N Conc =   0.00 		 Extractable SW =  93.15
 13 December 1990(Day of year=347), Maize: 
      Stage 4 EndOfJuvenile  DAS = 21
-     		Biomass       =  10.23 		 LAI            =   0.11
-     		Stover N Conc =   0.22 		 Extractable SW =  91.64
+     		Biomass       =  10.16 		 LAI            =   0.11
+     		Stover N Conc =   0.22 		 Extractable SW =  89.18
 15 December 1990(Day of year=349), Maize: 
      Stage 5 FloralInitiation  DAS = 23
-     		Biomass       =  13.72 		 LAI            =   0.15
-     		Stover N Conc =   0.31 		 Extractable SW = 104.82
+     		Biomass       =  13.62 		 LAI            =   0.15
+     		Stover N Conc =   0.30 		 Extractable SW = 102.38
 3 January 1991(Day of year=3), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 3 January 1991(Day of year=3), Fertiliser: 
@@ -2790,72 +2790,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-27 January 1991(Day of year=27), Maize: 
-     Stage 6 FlagLeaf  DAS = 66
-     		Biomass       = 471.09 		 LAI            =   1.94
-     		Stover N Conc =   3.13 		 Extractable SW =  96.88
 28 January 1991(Day of year=28), Maize: 
-     Stage 7 Flowering  DAS = 67
-     		Biomass       = 488.18 		 LAI            =   1.95
-     		Stover N Conc =   3.17 		 Extractable SW =  92.42
-9 February 1991(Day of year=40), Maize: 
-     Stage 8 StartGrainFill  DAS = 79
-     		Biomass       = 655.80 		 LAI            =   1.92
-     		Stover N Conc =   3.47 		 Extractable SW = 127.47
-18 March 1991(Day of year=77), Maize: 
-     Stage 9 EndGrainFill  DAS = 116
-     		Biomass       = 846.96 		 LAI            =   0.95
-     		Stover N Conc =   2.14 		 Extractable SW = 116.76
-21 March 1991(Day of year=80), Maize: 
-     Stage 10 Maturity  DAS = 119
-     		Biomass       = 851.34 		 LAI            =   0.92
-     		Stover N Conc =   2.09 		 Extractable SW = 110.47
+     Stage 6 FlagLeaf  DAS = 67
+     		Biomass       = 399.29 		 LAI            =   1.65
+     		Stover N Conc =   2.50 		 Extractable SW =  99.77
+29 January 1991(Day of year=29), Maize: 
+     Stage 7 Flowering  DAS = 68
+     		Biomass       = 410.88 		 LAI            =   1.63
+     		Stover N Conc =   2.52 		 Extractable SW =  96.07
+10 February 1991(Day of year=41), Maize: 
+     Stage 8 StartGrainFill  DAS = 80
+     		Biomass       = 517.68 		 LAI            =   1.63
+     		Stover N Conc =   2.80 		 Extractable SW = 123.30
+19 March 1991(Day of year=78), Maize: 
+     Stage 9 EndGrainFill  DAS = 117
+     		Biomass       = 662.82 		 LAI            =   0.87
+     		Stover N Conc =   1.87 		 Extractable SW = 114.27
 22 March 1991(Day of year=81), Maize: 
-     Stage 11 HarvestRipe  DAS = 120
-     		Biomass       = 852.82 		 LAI            =   0.91
-     		Stover N Conc =   2.09 		 Extractable SW = 123.67
-22 March 1991(Day of year=81), Manager: 
+     Stage 10 Maturity  DAS = 120
+     		Biomass       = 665.91 		 LAI            =   0.86
+     		Stover N Conc =   1.85 		 Extractable SW = 123.97
+23 March 1991(Day of year=82), Maize: 
+     Stage 11 HarvestRipe  DAS = 121
+     		Biomass       = 665.91 		 LAI            =   0.86
+     		Stover N Conc =   1.85 		 Extractable SW = 127.74
+23 March 1991(Day of year=82), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 67 		 Maturity (DAS)          = 119
-     Flowering day         = 28 		 Maturity day            = 80
-     Maximum LAI           = 2.0 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 8528.2
-     Green above ground biomass    (kg/ha) = 7500.3
-     Senesced above ground biomass (kg/ha) = 1027.9
-     Stover (kg/ha)        = 4711.1 	 Grain yield (kg/ha)     = 3817.1
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4517.3
-     Weight 1000 grains(g) = 235.4 		 Grains/m^2              = 1621.7
-     Grains/head           = 386.1
-     Grain N percent    (%)     =      0.52 	 Grain N            (kg/ha) =    19.72
-     Total N content    (kg/ha) =     40.60 	 Senesced N content (kg/ha) =    11.70
-     Green N content    (kg/ha) =     18.02
-     Grain P percent    (%)     =      0.16 	 Grain P uptake     (kg/ha) =     6.01
-     Total P content    (kg/ha) =      7.54 	 Senesced P content (kg/ha) =     0.75
-     Green P content    (kg/ha) =      2.55 
+     Flowering (DAS)       = 68 		 Maturity (DAS)          = 120
+     Flowering day         = 29 		 Maturity day            = 81
+     Maximum LAI           = 1.6 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 6659.1
+     Green above ground biomass    (kg/ha) = 5738.1
+     Senesced above ground biomass (kg/ha) = 921.0
+     Stover (kg/ha)        = 4058.7 	 Grain yield (kg/ha)     = 2600.4
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3077.4
+     Weight 1000 grains(g) = 228.3 		 Grains/m^2              = 1139.0
+     Grains/head           = 271.2
+     Grain N percent    (%)     =      0.57 	 Grain N            (kg/ha) =    14.81
+     Total N content    (kg/ha) =     33.30 	 Senesced N content (kg/ha) =    10.52
+     Green N content    (kg/ha) =     16.28
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.03
+     Total P content    (kg/ha) =      5.79 	 Senesced P content (kg/ha) =     0.67
+     Green P content    (kg/ha) =      6.77 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.9          0.9        0.9
-        Floral initiation   to Flag leaf                 1.0          1.0        0.9
+        Floral initiation   to Flag leaf                 1.0          1.0        0.8
         Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.7
+        Flowering           to Start grain fill          0.9          0.9        0.5
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3817.09		    0.00
-                         N  (kg/ha) =                 19.72		    0.00
+                         DM (kg/ha) =               2600.37		    0.00
+                         N  (kg/ha) =                 14.81		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4711.14		 1789.48
-                         N  (kg/ha) =                 20.88		    8.84
-                         P  (kg/ha) =                  1.52		    1.78
-21 April 1991(Day of year=111), Manager: 
+                         DM (kg/ha) =               4058.72		 1575.31
+                         N  (kg/ha) =                 18.49		    8.31
+                         P  (kg/ha) =                  5.76		    1.68
+22 April 1991(Day of year=112), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-21 April 1991(Day of year=111), SurfaceOM: 
+22 April 1991(Day of year=112), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -2926,19 +2926,19 @@ Title                  = p80N13
 23 November 1991(Day of year=327), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 114.10
+     		Stover N Conc =   0.00 		 Extractable SW = 121.15
 26 November 1991(Day of year=330), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 114.85
+     		Stover N Conc =   0.00 		 Extractable SW = 118.83
 12 December 1991(Day of year=346), Maize: 
      Stage 4 EndOfJuvenile  DAS = 20
-     		Biomass       =  10.76 		 LAI            =   0.12
-     		Stover N Conc =   0.23 		 Extractable SW = 114.35
+     		Biomass       =  10.68 		 LAI            =   0.12
+     		Stover N Conc =   0.23 		 Extractable SW = 116.68
 14 December 1991(Day of year=348), Maize: 
      Stage 5 FloralInitiation  DAS = 22
-     		Biomass       =  15.80 		 LAI            =   0.16
-     		Stover N Conc =   0.33 		 Extractable SW =  99.53
+     		Biomass       =  15.68 		 LAI            =   0.16
+     		Stover N Conc =   0.33 		 Extractable SW = 101.14
 3 January 1992(Day of year=3), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 3 January 1992(Day of year=3), Fertiliser: 
@@ -2946,72 +2946,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-20 January 1992(Day of year=20), Maize: 
-     Stage 6 FlagLeaf  DAS = 59
-     		Biomass       = 365.06 		 LAI            =   1.24
-     		Stover N Conc =   2.37 		 Extractable SW =  33.34
-21 January 1992(Day of year=21), Maize: 
-     Stage 7 Flowering  DAS = 60
-     		Biomass       = 371.97 		 LAI            =   1.24
-     		Stover N Conc =   2.38 		 Extractable SW =  31.63
-31 January 1992(Day of year=31), Maize: 
-     Stage 8 StartGrainFill  DAS = 70
-     		Biomass       = 456.22 		 LAI            =   1.23
-     		Stover N Conc =   2.60 		 Extractable SW =  22.91
-2 March 1992(Day of year=62), Maize: 
-     Stage 9 EndGrainFill  DAS = 101
-     		Biomass       = 511.08 		 LAI            =   0.65
-     		Stover N Conc =   1.76 		 Extractable SW =   9.36
-4 March 1992(Day of year=64), Maize: 
-     Stage 10 Maturity  DAS = 103
-     		Biomass       = 512.69 		 LAI            =   0.64
-     		Stover N Conc =   1.73 		 Extractable SW =   8.95
+22 January 1992(Day of year=22), Maize: 
+     Stage 6 FlagLeaf  DAS = 61
+     		Biomass       = 377.09 		 LAI            =   1.26
+     		Stover N Conc =   2.19 		 Extractable SW =  30.20
+23 January 1992(Day of year=23), Maize: 
+     Stage 7 Flowering  DAS = 62
+     		Biomass       = 385.04 		 LAI            =   1.24
+     		Stover N Conc =   2.20 		 Extractable SW =  36.11
+2 February 1992(Day of year=33), Maize: 
+     Stage 8 StartGrainFill  DAS = 72
+     		Biomass       = 444.99 		 LAI            =   1.24
+     		Stover N Conc =   2.46 		 Extractable SW =  24.09
 5 March 1992(Day of year=65), Maize: 
-     Stage 11 HarvestRipe  DAS = 104
-     		Biomass       = 513.86 		 LAI            =   0.63
-     		Stover N Conc =   1.73 		 Extractable SW =   8.76
-5 March 1992(Day of year=65), Manager: 
+     Stage 9 EndGrainFill  DAS = 104
+     		Biomass       = 500.10 		 LAI            =   0.53
+     		Stover N Conc =   1.86 		 Extractable SW =   8.67
+7 March 1992(Day of year=67), Maize: 
+     Stage 10 Maturity  DAS = 106
+     		Biomass       = 501.35 		 LAI            =   0.51
+     		Stover N Conc =   1.85 		 Extractable SW =   8.31
+8 March 1992(Day of year=68), Maize: 
+     Stage 11 HarvestRipe  DAS = 107
+     		Biomass       = 501.35 		 LAI            =   0.51
+     		Stover N Conc =   1.85 		 Extractable SW =   8.14
+8 March 1992(Day of year=68), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 60 		 Maturity (DAS)          = 103
-     Flowering day         = 21 		 Maturity day            = 64
+     Flowering (DAS)       = 62 		 Maturity (DAS)          = 106
+     Flowering day         = 23 		 Maturity day            = 67
      Maximum LAI           = 1.3 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 5138.6
-     Green above ground biomass    (kg/ha) = 4174.0
-     Senesced above ground biomass (kg/ha) = 964.6
-     Stover (kg/ha)        = 3447.6 	 Grain yield (kg/ha)     = 1691.0
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 2001.2
-     Weight 1000 grains(g) = 223.2 		 Grains/m^2              = 757.8
-     Grains/head           = 180.4
-     Grain N percent    (%)     =      0.55 	 Grain N            (kg/ha) =     9.28
-     Total N content    (kg/ha) =     26.53 	 Senesced N content (kg/ha) =    10.95
-     Green N content    (kg/ha) =     11.78
-     Grain P percent    (%)     =      0.29 	 Grain P uptake     (kg/ha) =     4.90
-     Total P content    (kg/ha) =      6.06 	 Senesced P content (kg/ha) =     0.64
-     Green P content    (kg/ha) =      1.89 
+     Total above ground biomass    (kg/ha) = 5013.5
+     Green above ground biomass    (kg/ha) = 3899.2
+     Senesced above ground biomass (kg/ha) = 1114.3
+     Stover (kg/ha)        = 4356.6 	 Grain yield (kg/ha)     = 656.9
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 777.4
+     Weight 1000 grains(g) = 235.0 		 Grains/m^2              = 279.6
+     Grains/head           = 66.6
+     Grain N percent    (%)     =      1.03 	 Grain N            (kg/ha) =     6.77
+     Total N content    (kg/ha) =     25.30 	 Senesced N content (kg/ha) =    10.97
+     Green N content    (kg/ha) =     13.72
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.01
+     Total P content    (kg/ha) =      5.67 	 Senesced P content (kg/ha) =     0.73
+     Green P content    (kg/ha) =      6.96 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        0.9
         End of juvenile     to Floral initiation         1.0          1.0        0.9
-        Floral initiation   to Flag leaf                 0.9          0.9        0.8
-        Flag leaf           to Flowering                 1.0          0.2        1.0
-        Flowering           to Start grain fill          0.6          0.5        0.5
-        Start grain fill    to End grain fill            0.6          0.3        0.3
+        Floral initiation   to Flag leaf                 1.0          0.9        0.8
+        Flag leaf           to Flowering                 1.0          1.0        0.6
+        Flowering           to Start grain fill          0.8          0.6        0.4
+        Start grain fill    to End grain fill            0.4          0.1        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               1691.02		    0.00
-                         N  (kg/ha) =                  9.28		    0.00
+                         DM (kg/ha) =                656.88		    0.00
+                         N  (kg/ha) =                  6.77		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               3447.62		 1378.35
-                         N  (kg/ha) =                 17.26		    5.47
-                         P  (kg/ha) =                  1.17		    1.37
-4 April 1992(Day of year=95), Manager: 
+                         DM (kg/ha) =               4356.63		 1474.43
+                         N  (kg/ha) =                 18.54		    6.15
+                         P  (kg/ha) =                  5.66		    2.03
+7 April 1992(Day of year=98), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-4 April 1992(Day of year=95), SurfaceOM: 
+7 April 1992(Day of year=98), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -3082,19 +3082,19 @@ Title                  = p80N13
 27 November 1992(Day of year=332), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =   8.76
+     		Stover N Conc =   0.00 		 Extractable SW =   9.93
 1 December 1992(Day of year=336), Maize: 
      Stage 3 Emergence  DAS = 5
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  14.25
-15 December 1992(Day of year=350), Maize: 
-     Stage 4 EndOfJuvenile  DAS = 19
-     		Biomass       =   7.43 		 LAI            =   0.10
-     		Stover N Conc =   0.19 		 Extractable SW =  65.90
+     		Stover N Conc =   0.00 		 Extractable SW =  13.75
+16 December 1992(Day of year=351), Maize: 
+     Stage 4 EndOfJuvenile  DAS = 20
+     		Biomass       =   9.44 		 LAI            =   0.12
+     		Stover N Conc =   0.23 		 Extractable SW =  64.44
 18 December 1992(Day of year=353), Maize: 
      Stage 5 FloralInitiation  DAS = 22
-     		Biomass       =  14.99 		 LAI            =   0.16
-     		Stover N Conc =   0.32 		 Extractable SW =  76.24
+     		Biomass       =  14.74 		 LAI            =   0.16
+     		Stover N Conc =   0.31 		 Extractable SW =  75.75
 7 January 1993(Day of year=7), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 7 January 1993(Day of year=7), Fertiliser: 
@@ -3102,72 +3102,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-28 January 1993(Day of year=28), Maize: 
-     Stage 6 FlagLeaf  DAS = 63
-     		Biomass       = 340.19 		 LAI            =   1.20
-     		Stover N Conc =   2.31 		 Extractable SW =  82.59
-29 January 1993(Day of year=29), Maize: 
-     Stage 7 Flowering  DAS = 64
-     		Biomass       = 347.98 		 LAI            =   1.22
-     		Stover N Conc =   2.35 		 Extractable SW =  79.73
-10 February 1993(Day of year=41), Maize: 
-     Stage 8 StartGrainFill  DAS = 76
-     		Biomass       = 447.68 		 LAI            =   1.21
-     		Stover N Conc =   2.79 		 Extractable SW = 111.76
-23 March 1993(Day of year=82), Maize: 
-     Stage 9 EndGrainFill  DAS = 117
-     		Biomass       = 591.33 		 LAI            =   0.62
-     		Stover N Conc =   1.90 		 Extractable SW =  98.03
-26 March 1993(Day of year=85), Maize: 
-     Stage 10 Maturity  DAS = 120
-     		Biomass       = 594.02 		 LAI            =   0.61
-     		Stover N Conc =   1.87 		 Extractable SW =  97.04
-27 March 1993(Day of year=86), Maize: 
-     Stage 11 HarvestRipe  DAS = 121
-     		Biomass       = 594.86 		 LAI            =   0.61
-     		Stover N Conc =   1.87 		 Extractable SW =  96.70
-27 March 1993(Day of year=86), Manager: 
+8 February 1993(Day of year=39), Maize: 
+     Stage 6 FlagLeaf  DAS = 74
+     		Biomass       = 294.80 		 LAI            =   1.27
+     		Stover N Conc =   1.91 		 Extractable SW = 120.19
+9 February 1993(Day of year=40), Maize: 
+     Stage 7 Flowering  DAS = 75
+     		Biomass       = 301.17 		 LAI            =   1.27
+     		Stover N Conc =   1.95 		 Extractable SW = 116.38
+22 February 1993(Day of year=53), Maize: 
+     Stage 8 StartGrainFill  DAS = 88
+     		Biomass       = 392.78 		 LAI            =   1.27
+     		Stover N Conc =   2.32 		 Extractable SW = 122.84
+5 April 1993(Day of year=95), Maize: 
+     Stage 9 EndGrainFill  DAS = 130
+     		Biomass       = 501.07 		 LAI            =   1.14
+     		Stover N Conc =   1.92 		 Extractable SW =  55.13
+8 April 1993(Day of year=98), Maize: 
+     Stage 10 Maturity  DAS = 133
+     		Biomass       = 505.22 		 LAI            =   1.05
+     		Stover N Conc =   1.88 		 Extractable SW =  51.96
+9 April 1993(Day of year=99), Maize: 
+     Stage 11 HarvestRipe  DAS = 134
+     		Biomass       = 505.22 		 LAI            =   1.05
+     		Stover N Conc =   1.88 		 Extractable SW =  51.10
+9 April 1993(Day of year=99), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 64 		 Maturity (DAS)          = 120
-     Flowering day         = 29 		 Maturity day            = 85
-     Maximum LAI           = 1.2 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 5948.6
-     Green above ground biomass    (kg/ha) = 4952.6
-     Senesced above ground biomass (kg/ha) = 996.0
-     Stover (kg/ha)        = 3803.9 	 Grain yield (kg/ha)     = 2144.7
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 2538.1
-     Weight 1000 grains(g) = 241.8 		 Grains/m^2              = 886.9
-     Grains/head           = 211.2
-     Grain N percent    (%)     =      0.72 	 Grain N            (kg/ha) =    15.35
-     Total N content    (kg/ha) =     34.05 	 Senesced N content (kg/ha) =    12.08
-     Green N content    (kg/ha) =     15.22
-     Grain P percent    (%)     =      0.21 	 Grain P uptake     (kg/ha) =     4.41
-     Total P content    (kg/ha) =      5.62 	 Senesced P content (kg/ha) =     0.69
-     Green P content    (kg/ha) =      1.95 
+     Flowering (DAS)       = 75 		 Maturity (DAS)          = 133
+     Flowering day         = 40 		 Maturity day            = 98
+     Maximum LAI           = 1.3 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 5052.2
+     Green above ground biomass    (kg/ha) = 4447.0
+     Senesced above ground biomass (kg/ha) = 605.1
+     Stover (kg/ha)        = 4453.9 	 Grain yield (kg/ha)     = 598.3
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 708.0
+     Weight 1000 grains(g) = 242.2 		 Grains/m^2              = 247.0
+     Grains/head           = 58.8
+     Grain N percent    (%)     =      1.40 	 Grain N            (kg/ha) =     8.39
+     Total N content    (kg/ha) =     27.18 	 Senesced N content (kg/ha) =     7.34
+     Green N content    (kg/ha) =     19.66
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      4.75 	 Senesced P content (kg/ha) =     0.53
+     Green P content    (kg/ha) =      6.14 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        0.9
-        End of juvenile     to Floral initiation         1.0          1.0        1.0
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.5
-        Start grain fill    to End grain fill            1.0          1.0        0.3
+        End of juvenile     to Floral initiation         0.9          0.9        0.9
+        Floral initiation   to Flag leaf                 1.0          1.0        0.6
+        Flag leaf           to Flowering                 1.0          1.0        0.8
+        Flowering           to Start grain fill          0.9          0.9        0.4
+        Start grain fill    to End grain fill            1.0          1.0        0.4
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               2144.70		    0.00
-                         N  (kg/ha) =                 15.35		    0.00
+                         DM (kg/ha) =                598.27		    0.00
+                         N  (kg/ha) =                  8.39		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               3803.90		 1439.50
-                         N  (kg/ha) =                 18.69		    8.60
-                         P  (kg/ha) =                  1.21		    1.43
-26 April 1993(Day of year=116), Manager: 
+                         DM (kg/ha) =               4453.91		 3364.90
+                         N  (kg/ha) =                 18.80		    8.20
+                         P  (kg/ha) =                  4.75		    1.92
+9 May 1993(Day of year=129), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-26 April 1993(Day of year=116), SurfaceOM: 
+9 May 1993(Day of year=129), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -3231,7 +3231,7 @@ Title                  = p80N13
 16 November 1993(Day of year=320), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  96.70
+     		Stover N Conc =   0.00 		 Extractable SW =  51.71
 17 November 1993(Day of year=321), Manager: 
      Manager sending message :- fertiliser apply  amount = 80, depth = 50, type = broadcast_p
 17 November 1993(Day of year=321), Fertiliser: 
@@ -3242,15 +3242,15 @@ Title                  = p80N13
 18 November 1993(Day of year=322), Maize: 
      Stage 3 Emergence  DAS = 3
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  97.64
+     		Stover N Conc =   0.00 		 Extractable SW =  51.40
 4 December 1993(Day of year=338), Maize: 
      Stage 4 EndOfJuvenile  DAS = 19
-     		Biomass       =   8.04 		 LAI            =   0.11
-     		Stover N Conc =   0.20 		 Extractable SW = 115.91
-6 December 1993(Day of year=340), Maize: 
-     Stage 5 FloralInitiation  DAS = 21
-     		Biomass       =  10.51 		 LAI            =   0.15
-     		Stover N Conc =   0.28 		 Extractable SW =  97.04
+     		Biomass       =   6.12 		 LAI            =   0.11
+     		Stover N Conc =   0.17 		 Extractable SW =  82.92
+7 December 1993(Day of year=341), Maize: 
+     Stage 5 FloralInitiation  DAS = 22
+     		Biomass       =  11.21 		 LAI            =   0.16
+     		Stover N Conc =   0.22 		 Extractable SW =  76.72
 27 December 1993(Day of year=361), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 27 December 1993(Day of year=361), Fertiliser: 
@@ -3258,72 +3258,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-19 January 1994(Day of year=19), Maize: 
-     Stage 6 FlagLeaf  DAS = 65
-     		Biomass       = 403.57 		 LAI            =   1.56
-     		Stover N Conc =   2.69 		 Extractable SW =  83.81
-20 January 1994(Day of year=20), Maize: 
-     Stage 7 Flowering  DAS = 66
-     		Biomass       = 411.87 		 LAI            =   1.57
-     		Stover N Conc =   2.73 		 Extractable SW =  81.37
-2 February 1994(Day of year=33), Maize: 
-     Stage 8 StartGrainFill  DAS = 79
-     		Biomass       = 564.00 		 LAI            =   1.56
-     		Stover N Conc =   2.91 		 Extractable SW =  51.09
-15 March 1994(Day of year=74), Maize: 
-     Stage 9 EndGrainFill  DAS = 120
-     		Biomass       = 738.10 		 LAI            =   0.78
-     		Stover N Conc =   1.99 		 Extractable SW =  16.00
-18 March 1994(Day of year=77), Maize: 
-     Stage 10 Maturity  DAS = 123
-     		Biomass       = 741.63 		 LAI            =   0.77
-     		Stover N Conc =   1.94 		 Extractable SW =  15.11
-19 March 1994(Day of year=78), Maize: 
-     Stage 11 HarvestRipe  DAS = 124
-     		Biomass       = 742.74 		 LAI            =   0.77
-     		Stover N Conc =   1.94 		 Extractable SW =  14.87
-19 March 1994(Day of year=78), Manager: 
+15 February 1994(Day of year=46), Maize: 
+     Stage 6 FlagLeaf  DAS = 92
+     		Biomass       = 209.56 		 LAI            =   0.92
+     		Stover N Conc =   1.28 		 Extractable SW =  89.32
+16 February 1994(Day of year=47), Maize: 
+     Stage 7 Flowering  DAS = 93
+     		Biomass       = 212.17 		 LAI            =   0.92
+     		Stover N Conc =   1.29 		 Extractable SW =  88.70
+2 March 1994(Day of year=61), Maize: 
+     Stage 8 StartGrainFill  DAS = 107
+     		Biomass       = 247.44 		 LAI            =   0.92
+     		Stover N Conc =   1.41 		 Extractable SW =  80.71
+14 April 1994(Day of year=104), Maize: 
+     Stage 9 EndGrainFill  DAS = 150
+     		Biomass       = 261.92 		 LAI            =   0.92
+     		Stover N Conc =   1.57 		 Extractable SW =  52.41
+17 April 1994(Day of year=107), Maize: 
+     Stage 10 Maturity  DAS = 153
+     		Biomass       = 261.92 		 LAI            =   0.86
+     		Stover N Conc =   1.57 		 Extractable SW =  50.65
+18 April 1994(Day of year=108), Maize: 
+     Stage 11 HarvestRipe  DAS = 154
+     		Biomass       = 261.92 		 LAI            =   0.86
+     		Stover N Conc =   1.57 		 Extractable SW =  50.08
+18 April 1994(Day of year=108), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 66 		 Maturity (DAS)          = 123
-     Flowering day         = 20 		 Maturity day            = 77
-     Maximum LAI           = 1.6 		 Number of leaves        = 17.3
-     Total above ground biomass    (kg/ha) = 7427.4
-     Green above ground biomass    (kg/ha) = 6472.4
-     Senesced above ground biomass (kg/ha) = 954.9
-     Stover (kg/ha)        = 3990.5 	 Grain yield (kg/ha)     = 3436.9
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4067.4
-     Weight 1000 grains(g) = 242.5 		 Grains/m^2              = 1417.5
-     Grains/head           = 337.5
-     Grain N percent    (%)     =      0.32 	 Grain N            (kg/ha) =    10.87
-     Total N content    (kg/ha) =     30.22 	 Senesced N content (kg/ha) =    11.60
-     Green N content    (kg/ha) =     13.24
-     Grain P percent    (%)     =      0.13 	 Grain P uptake     (kg/ha) =     4.50
-     Total P content    (kg/ha) =      5.79 	 Senesced P content (kg/ha) =     0.69
-     Green P content    (kg/ha) =      2.12 
+     Flowering (DAS)       = 93 		 Maturity (DAS)          = 153
+     Flowering day         = 47 		 Maturity day            = 107
+     Maximum LAI           = 0.9 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 2619.2
+     Green above ground biomass    (kg/ha) = 2225.4
+     Senesced above ground biomass (kg/ha) = 393.8
+     Stover (kg/ha)        = 2619.2 	 Grain yield (kg/ha)     = 0.0
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 0.0
+     Weight 1000 grains(g) = 0.0 		 Grains/m^2              = 0.0
+     Grains/head           = 0.0
+     Grain N percent    (%)     =      0.00 	 Grain N            (kg/ha) =     0.00
+     Total N content    (kg/ha) =     15.67 	 Senesced N content (kg/ha) =     5.07
+     Green N content    (kg/ha) =     14.94
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      2.71 	 Senesced P content (kg/ha) =     0.36
+     Green P content    (kg/ha) =      3.51 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
-        Emergence           to End of juvenile           1.0          1.0        1.0
-        End of juvenile     to Floral initiation         0.9          0.9        0.9
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.6
-        Start grain fill    to End grain fill            1.0          1.0        0.3
+        Emergence           to End of juvenile           1.0          1.0        0.8
+        End of juvenile     to Floral initiation         0.9          0.9        0.8
+        Floral initiation   to Flag leaf                 1.0          1.0        0.4
+        Flag leaf           to Flowering                 1.0          1.0        0.2
+        Flowering           to Start grain fill          1.0          1.0        0.2
+        Start grain fill    to End grain fill            1.0          1.0        0.2
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3436.92		    0.00
-                         N  (kg/ha) =                 10.87		    0.00
+                         DM (kg/ha) =                  0.00		    0.00
+                         N  (kg/ha) =                  0.00		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               3990.45		 1544.10
-                         N  (kg/ha) =                 19.35		    5.49
-                         P  (kg/ha) =                  1.28		    1.53
-18 April 1994(Day of year=108), Manager: 
+                         DM (kg/ha) =               2619.17		 1860.32
+                         N  (kg/ha) =                 15.67		    4.34
+                         P  (kg/ha) =                  2.71		    1.16
+18 May 1994(Day of year=138), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-18 April 1994(Day of year=108), SurfaceOM: 
+18 May 1994(Day of year=138), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -3394,19 +3394,19 @@ Title                  = p80N13
 11 December 1994(Day of year=345), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  14.87
+     		Stover N Conc =   0.00 		 Extractable SW =  52.24
 14 December 1994(Day of year=348), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW =  17.24
+     		Stover N Conc =   0.00 		 Extractable SW =  52.16
 29 December 1994(Day of year=363), Maize: 
      Stage 4 EndOfJuvenile  DAS = 19
-     		Biomass       =  10.23 		 LAI            =   0.12
-     		Stover N Conc =   0.22 		 Extractable SW =  66.74
+     		Biomass       =  10.29 		 LAI            =   0.12
+     		Stover N Conc =   0.23 		 Extractable SW =  86.96
 31 December 1994(Day of year=365), Maize: 
      Stage 5 FloralInitiation  DAS = 21
-     		Biomass       =  15.05 		 LAI            =   0.15
-     		Stover N Conc =   0.28 		 Extractable SW =  70.13
+     		Biomass       =  15.13 		 LAI            =   0.15
+     		Stover N Conc =   0.31 		 Extractable SW =  90.41
 21 January 1995(Day of year=21), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 21 January 1995(Day of year=21), Fertiliser: 
@@ -3414,72 +3414,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-11 February 1995(Day of year=42), Maize: 
-     Stage 6 FlagLeaf  DAS = 63
-     		Biomass       = 313.71 		 LAI            =   0.94
-     		Stover N Conc =   2.10 		 Extractable SW =  67.24
-12 February 1995(Day of year=43), Maize: 
-     Stage 7 Flowering  DAS = 64
-     		Biomass       = 321.04 		 LAI            =   0.94
-     		Stover N Conc =   2.11 		 Extractable SW =  65.84
+23 February 1995(Day of year=54), Maize: 
+     Stage 6 FlagLeaf  DAS = 75
+     		Biomass       = 336.79 		 LAI            =   1.28
+     		Stover N Conc =   1.91 		 Extractable SW = 104.54
 24 February 1995(Day of year=55), Maize: 
-     Stage 8 StartGrainFill  DAS = 76
-     		Biomass       = 406.62 		 LAI            =   0.93
-     		Stover N Conc =   2.43 		 Extractable SW = 100.10
-5 April 1995(Day of year=95), Maize: 
-     Stage 9 EndGrainFill  DAS = 116
-     		Biomass       = 503.18 		 LAI            =   0.51
-     		Stover N Conc =   1.78 		 Extractable SW = 107.74
-8 April 1995(Day of year=98), Maize: 
-     Stage 10 Maturity  DAS = 119
-     		Biomass       = 505.20 		 LAI            =   0.50
-     		Stover N Conc =   1.76 		 Extractable SW = 114.94
-9 April 1995(Day of year=99), Maize: 
-     Stage 11 HarvestRipe  DAS = 120
-     		Biomass       = 505.68 		 LAI            =   0.50
-     		Stover N Conc =   1.76 		 Extractable SW = 113.90
-9 April 1995(Day of year=99), Manager: 
+     Stage 7 Flowering  DAS = 76
+     		Biomass       = 341.96 		 LAI            =   1.28
+     		Stover N Conc =   1.94 		 Extractable SW = 103.34
+9 March 1995(Day of year=68), Maize: 
+     Stage 8 StartGrainFill  DAS = 89
+     		Biomass       = 410.46 		 LAI            =   1.28
+     		Stover N Conc =   2.20 		 Extractable SW =  88.26
+20 April 1995(Day of year=110), Maize: 
+     Stage 9 EndGrainFill  DAS = 131
+     		Biomass       = 445.73 		 LAI            =   1.27
+     		Stover N Conc =   2.58 		 Extractable SW =  87.24
+23 April 1995(Day of year=113), Maize: 
+     Stage 10 Maturity  DAS = 134
+     		Biomass       = 445.73 		 LAI            =   1.21
+     		Stover N Conc =   2.58 		 Extractable SW =  84.05
+24 April 1995(Day of year=114), Maize: 
+     Stage 11 HarvestRipe  DAS = 135
+     		Biomass       = 445.73 		 LAI            =   1.20
+     		Stover N Conc =   2.58 		 Extractable SW =  83.13
+24 April 1995(Day of year=114), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 64 		 Maturity (DAS)          = 119
-     Flowering day         = 43 		 Maturity day            = 98
-     Maximum LAI           = 1.0 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 5056.8
-     Green above ground biomass    (kg/ha) = 4118.2
-     Senesced above ground biomass (kg/ha) = 938.7
-     Stover (kg/ha)        = 3587.0 	 Grain yield (kg/ha)     = 1469.8
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 1739.4
-     Weight 1000 grains(g) = 241.9 		 Grains/m^2              = 607.7
-     Grains/head           = 144.7
-     Grain N percent    (%)     =      0.67 	 Grain N            (kg/ha) =     9.87
-     Total N content    (kg/ha) =     27.46 	 Senesced N content (kg/ha) =    11.38
-     Green N content    (kg/ha) =     12.71
-     Grain P percent    (%)     =      0.30 	 Grain P uptake     (kg/ha) =     4.41
-     Total P content    (kg/ha) =      6.13 	 Senesced P content (kg/ha) =     0.65
-     Green P content    (kg/ha) =      2.40 
+     Flowering (DAS)       = 76 		 Maturity (DAS)          = 134
+     Flowering day         = 55 		 Maturity day            = 113
+     Maximum LAI           = 1.3 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 4457.3
+     Green above ground biomass    (kg/ha) = 3871.7
+     Senesced above ground biomass (kg/ha) = 585.6
+     Stover (kg/ha)        = 4457.3 	 Grain yield (kg/ha)     = 0.0
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 0.0
+     Weight 1000 grains(g) = 0.0 		 Grains/m^2              = 0.0
+     Grains/head           = 0.0
+     Grain N percent    (%)     =      0.00 	 Grain N            (kg/ha) =     0.00
+     Total N content    (kg/ha) =     25.78 	 Senesced N content (kg/ha) =     6.50
+     Green N content    (kg/ha) =     28.76
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      4.87 	 Senesced P content (kg/ha) =     0.59
+     Green P content    (kg/ha) =      7.56 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        0.9
         End of juvenile     to Floral initiation         0.9          0.9        0.9
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.5
-        Start grain fill    to End grain fill            1.0          1.0        0.3
+        Floral initiation   to Flag leaf                 1.0          1.0        0.6
+        Flag leaf           to Flowering                 1.0          1.0        0.7
+        Flowering           to Start grain fill          0.9          0.9        0.3
+        Start grain fill    to End grain fill            1.0          1.0        0.4
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               1469.79		    0.00
-                         N  (kg/ha) =                  9.87		    0.00
+                         DM (kg/ha) =                  0.00		    0.00
+                         N  (kg/ha) =                  0.00		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               3587.05		 1333.09
-                         N  (kg/ha) =                 17.60		    6.49
-                         P  (kg/ha) =                  1.72		    1.32
-9 May 1995(Day of year=129), Manager: 
+                         DM (kg/ha) =               4457.27		 3494.06
+                         N  (kg/ha) =                 25.78		    9.47
+                         P  (kg/ha) =                  4.87		    3.27
+24 May 1995(Day of year=144), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-9 May 1995(Day of year=129), SurfaceOM: 
+24 May 1995(Day of year=144), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -3550,19 +3550,19 @@ Title                  = p80N13
 22 November 1995(Day of year=326), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 107.14
+     		Stover N Conc =   0.00 		 Extractable SW =  85.76
 24 November 1995(Day of year=328), Maize: 
      Stage 3 Emergence  DAS = 3
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 106.24
+     		Stover N Conc =   0.00 		 Extractable SW =  85.17
 10 December 1995(Day of year=344), Maize: 
      Stage 4 EndOfJuvenile  DAS = 19
-     		Biomass       =   8.71 		 LAI            =   0.12
-     		Stover N Conc =   0.21 		 Extractable SW = 109.25
+     		Biomass       =   8.65 		 LAI            =   0.12
+     		Stover N Conc =   0.21 		 Extractable SW =  99.94
 13 December 1995(Day of year=347), Maize: 
      Stage 5 FloralInitiation  DAS = 22
-     		Biomass       =  12.18 		 LAI            =   0.18
-     		Stover N Conc =   0.34 		 Extractable SW =  99.18
+     		Biomass       =  12.09 		 LAI            =   0.18
+     		Stover N Conc =   0.31 		 Extractable SW =  93.61
 2 January 1996(Day of year=2), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 2 January 1996(Day of year=2), Fertiliser: 
@@ -3570,72 +3570,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-20 January 1996(Day of year=20), Maize: 
-     Stage 6 FlagLeaf  DAS = 60
-     		Biomass       = 382.72 		 LAI            =   1.49
-     		Stover N Conc =   2.60 		 Extractable SW =  60.16
-21 January 1996(Day of year=21), Maize: 
-     Stage 7 Flowering  DAS = 61
-     		Biomass       = 394.52 		 LAI            =   1.49
-     		Stover N Conc =   2.63 		 Extractable SW =  57.49
-1 February 1996(Day of year=32), Maize: 
-     Stage 8 StartGrainFill  DAS = 72
-     		Biomass       = 505.13 		 LAI            =   1.47
-     		Stover N Conc =   2.90 		 Extractable SW =  63.24
-7 March 1996(Day of year=67), Maize: 
-     Stage 9 EndGrainFill  DAS = 107
-     		Biomass       = 654.73 		 LAI            =   0.87
-     		Stover N Conc =   1.99 		 Extractable SW = 129.92
-9 March 1996(Day of year=69), Maize: 
-     Stage 10 Maturity  DAS = 109
-     		Biomass       = 656.55 		 LAI            =   0.87
-     		Stover N Conc =   1.97 		 Extractable SW = 131.23
-10 March 1996(Day of year=70), Maize: 
-     Stage 11 HarvestRipe  DAS = 110
-     		Biomass       = 657.50 		 LAI            =   0.87
-     		Stover N Conc =   1.95 		 Extractable SW = 131.05
-10 March 1996(Day of year=70), Manager: 
+2 February 1996(Day of year=33), Maize: 
+     Stage 6 FlagLeaf  DAS = 73
+     		Biomass       = 250.63 		 LAI            =   1.16
+     		Stover N Conc =   1.67 		 Extractable SW = 103.54
+3 February 1996(Day of year=34), Maize: 
+     Stage 7 Flowering  DAS = 74
+     		Biomass       = 256.87 		 LAI            =   1.16
+     		Stover N Conc =   1.70 		 Extractable SW = 100.35
+14 February 1996(Day of year=45), Maize: 
+     Stage 8 StartGrainFill  DAS = 85
+     		Biomass       = 311.28 		 LAI            =   1.16
+     		Stover N Conc =   1.98 		 Extractable SW = 125.03
+21 March 1996(Day of year=81), Maize: 
+     Stage 9 EndGrainFill  DAS = 121
+     		Biomass       = 335.21 		 LAI            =   1.15
+     		Stover N Conc =   2.57 		 Extractable SW = 105.90
+23 March 1996(Day of year=83), Maize: 
+     Stage 10 Maturity  DAS = 123
+     		Biomass       = 335.21 		 LAI            =   1.11
+     		Stover N Conc =   2.57 		 Extractable SW = 102.46
+24 March 1996(Day of year=84), Maize: 
+     Stage 11 HarvestRipe  DAS = 124
+     		Biomass       = 335.21 		 LAI            =   1.09
+     		Stover N Conc =   2.57 		 Extractable SW = 100.76
+24 March 1996(Day of year=84), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 61 		 Maturity (DAS)          = 109
-     Flowering day         = 21 		 Maturity day            = 69
-     Maximum LAI           = 1.5 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 6575.0
-     Green above ground biomass    (kg/ha) = 5741.0
-     Senesced above ground biomass (kg/ha) = 834.0
-     Stover (kg/ha)        = 3643.5 	 Grain yield (kg/ha)     = 2931.6
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3469.3
-     Weight 1000 grains(g) = 208.9 		 Grains/m^2              = 1403.1
-     Grains/head           = 334.1
-     Grain N percent    (%)     =      0.52 	 Grain N            (kg/ha) =    15.33
-     Total N content    (kg/ha) =     34.85 	 Senesced N content (kg/ha) =    11.31
-     Green N content    (kg/ha) =     15.94
-     Grain P percent    (%)     =      0.15 	 Grain P uptake     (kg/ha) =     4.53
-     Total P content    (kg/ha) =      5.73 	 Senesced P content (kg/ha) =     0.58
-     Green P content    (kg/ha) =      2.04 
+     Flowering (DAS)       = 74 		 Maturity (DAS)          = 123
+     Flowering day         = 34 		 Maturity day            = 83
+     Maximum LAI           = 1.2 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 3352.1
+     Green above ground biomass    (kg/ha) = 2915.7
+     Senesced above ground biomass (kg/ha) = 436.4
+     Stover (kg/ha)        = 3352.1 	 Grain yield (kg/ha)     = 0.0
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 0.0
+     Weight 1000 grains(g) = 0.0 		 Grains/m^2              = 0.0
+     Grains/head           = 0.0
+     Grain N percent    (%)     =      0.00 	 Grain N            (kg/ha) =     0.00
+     Total N content    (kg/ha) =     25.67 	 Senesced N content (kg/ha) =     6.31
+     Green N content    (kg/ha) =     29.64
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      3.66 	 Senesced P content (kg/ha) =     0.41
+     Green P content    (kg/ha) =      5.74 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         0.8          0.8        0.8
-        Floral initiation   to Flag leaf                 1.0          1.0        0.9
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.5
+        Floral initiation   to Flag leaf                 1.0          1.0        0.5
+        Flag leaf           to Flowering                 1.0          1.0        0.5
+        Flowering           to Start grain fill          0.9          0.9        0.3
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               2931.57		    0.00
-                         N  (kg/ha) =                 15.33		    0.00
+                         DM (kg/ha) =                  0.00		    0.00
+                         N  (kg/ha) =                  0.00		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               3643.47		 1448.22
-                         N  (kg/ha) =                 19.52		    7.73
-                         P  (kg/ha) =                  1.20		    1.43
-9 April 1996(Day of year=100), Manager: 
+                         DM (kg/ha) =               3352.13		 2510.12
+                         N  (kg/ha) =                 25.67		   10.28
+                         P  (kg/ha) =                  3.66		    2.48
+23 April 1996(Day of year=114), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-9 April 1996(Day of year=100), SurfaceOM: 
+23 April 1996(Day of year=114), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -3706,19 +3706,19 @@ Title                  = p80N13
 30 November 1996(Day of year=335), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 121.31
+     		Stover N Conc =   0.00 		 Extractable SW = 104.92
 3 December 1996(Day of year=338), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 119.58
+     		Stover N Conc =   0.00 		 Extractable SW = 102.14
 21 December 1996(Day of year=356), Maize: 
      Stage 4 EndOfJuvenile  DAS = 22
-     		Biomass       =  10.63 		 LAI            =   0.12
-     		Stover N Conc =   0.23 		 Extractable SW =  98.96
+     		Biomass       =  10.57 		 LAI            =   0.12
+     		Stover N Conc =   0.23 		 Extractable SW =  93.69
 23 December 1996(Day of year=358), Maize: 
      Stage 5 FloralInitiation  DAS = 24
-     		Biomass       =  15.72 		 LAI            =   0.15
-     		Stover N Conc =   0.32 		 Extractable SW = 103.35
+     		Biomass       =  15.63 		 LAI            =   0.15
+     		Stover N Conc =   0.32 		 Extractable SW =  98.08
 10 January 1997(Day of year=10), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 10 January 1997(Day of year=10), Fertiliser: 
@@ -3728,67 +3728,67 @@ Title                  = p80N13
                                          added at depth    5.00 (layer   1)
 3 February 1997(Day of year=34), Maize: 
      Stage 6 FlagLeaf  DAS = 66
-     		Biomass       = 493.57 		 LAI            =   2.05
-     		Stover N Conc =   3.33 		 Extractable SW = 110.18
+     		Biomass       = 476.47 		 LAI            =   2.03
+     		Stover N Conc =   3.11 		 Extractable SW = 112.74
 4 February 1997(Day of year=35), Maize: 
      Stage 7 Flowering  DAS = 67
-     		Biomass       = 513.35 		 LAI            =   2.07
-     		Stover N Conc =   3.38 		 Extractable SW = 106.45
+     		Biomass       = 494.23 		 LAI            =   2.03
+     		Stover N Conc =   3.16 		 Extractable SW = 109.21
 18 February 1997(Day of year=49), Maize: 
      Stage 8 StartGrainFill  DAS = 81
-     		Biomass       = 713.72 		 LAI            =   2.03
-     		Stover N Conc =   3.80 		 Extractable SW = 107.19
+     		Biomass       = 680.54 		 LAI            =   2.03
+     		Stover N Conc =   3.60 		 Extractable SW = 107.85
 2 April 1997(Day of year=92), Maize: 
      Stage 9 EndGrainFill  DAS = 124
-     		Biomass       = 922.55 		 LAI            =   0.94
-     		Stover N Conc =   2.31 		 Extractable SW = 116.55
+     		Biomass       = 888.49 		 LAI            =   0.94
+     		Stover N Conc =   2.27 		 Extractable SW = 116.54
 5 April 1997(Day of year=95), Maize: 
      Stage 10 Maturity  DAS = 127
-     		Biomass       = 926.04 		 LAI            =   0.93
-     		Stover N Conc =   2.27 		 Extractable SW = 110.87
+     		Biomass       = 891.82 		 LAI            =   0.93
+     		Stover N Conc =   2.26 		 Extractable SW = 110.86
 6 April 1997(Day of year=96), Maize: 
      Stage 11 HarvestRipe  DAS = 128
-     		Biomass       = 927.41 		 LAI            =   0.92
-     		Stover N Conc =   2.27 		 Extractable SW = 109.53
+     		Biomass       = 891.82 		 LAI            =   0.93
+     		Stover N Conc =   2.26 		 Extractable SW = 109.58
 6 April 1997(Day of year=96), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
      Flowering (DAS)       = 67 		 Maturity (DAS)          = 127
      Flowering day         = 35 		 Maturity day            = 95
-     Maximum LAI           = 2.1 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 9274.1
-     Green above ground biomass    (kg/ha) = 8190.1
-     Senesced above ground biomass (kg/ha) = 1084.0
-     Stover (kg/ha)        = 5379.5 	 Grain yield (kg/ha)     = 3894.6
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4609.0
-     Weight 1000 grains(g) = 240.7 		 Grains/m^2              = 1617.7
-     Grains/head           = 385.2
-     Grain N percent    (%)     =      0.54 	 Grain N            (kg/ha) =    21.13
-     Total N content    (kg/ha) =     43.84 	 Senesced N content (kg/ha) =    12.52
-     Green N content    (kg/ha) =     19.97
-     Grain P percent    (%)     =      0.22 	 Grain P uptake     (kg/ha) =     8.49
-     Total P content    (kg/ha) =     10.20 	 Senesced P content (kg/ha) =     0.82
-     Green P content    (kg/ha) =      2.86 
+     Maximum LAI           = 2.0 		 Number of leaves        = 17.4
+     Total above ground biomass    (kg/ha) = 8918.2
+     Green above ground biomass    (kg/ha) = 7885.2
+     Senesced above ground biomass (kg/ha) = 1033.0
+     Stover (kg/ha)        = 5631.1 	 Grain yield (kg/ha)     = 3287.1
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3890.1
+     Weight 1000 grains(g) = 233.8 		 Grains/m^2              = 1406.1
+     Grains/head           = 334.8
+     Grain N percent    (%)     =      0.59 	 Grain N            (kg/ha) =    19.44
+     Total N content    (kg/ha) =     42.02 	 Senesced N content (kg/ha) =    11.74
+     Green N content    (kg/ha) =     21.24
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.02
+     Total P content    (kg/ha) =      8.15 	 Senesced P content (kg/ha) =     0.81
+     Green P content    (kg/ha) =      9.89 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        0.9
         End of juvenile     to Floral initiation         0.9          0.9        0.9
         Floral initiation   to Flag leaf                 1.0          1.0        0.9
-        Flag leaf           to Flowering                 1.0          1.0        1.0
+        Flag leaf           to Flowering                 1.0          1.0        0.9
         Flowering           to Start grain fill          1.0          1.0        0.7
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3894.61		    0.00
-                         N  (kg/ha) =                 21.13		    0.00
+                         DM (kg/ha) =               3287.10		    0.00
+                         N  (kg/ha) =                 19.44		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               5379.53		 1994.03
-                         N  (kg/ha) =                 22.70		    9.79
-                         P  (kg/ha) =                  1.71		    1.98
+                         DM (kg/ha) =               5631.12		 2221.09
+                         N  (kg/ha) =                 22.59		   10.39
+                         P  (kg/ha) =                  8.13		    2.57
 6 May 1997(Day of year=126), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
 6 May 1997(Day of year=126), SurfaceOM: 
@@ -3862,19 +3862,19 @@ Title                  = p80N13
 29 November 1997(Day of year=333), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 108.35
+     		Stover N Conc =   0.00 		 Extractable SW = 112.85
 2 December 1997(Day of year=336), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 107.79
+     		Stover N Conc =   0.00 		 Extractable SW = 107.82
 21 December 1997(Day of year=355), Maize: 
      Stage 4 EndOfJuvenile  DAS = 23
-     		Biomass       =  12.59 		 LAI            =   0.13
+     		Biomass       =  12.52 		 LAI            =   0.13
      		Stover N Conc =   0.26 		 Extractable SW =  93.44
 23 December 1997(Day of year=357), Maize: 
      Stage 5 FloralInitiation  DAS = 25
-     		Biomass       =  18.01 		 LAI            =   0.16
-     		Stover N Conc =   0.33 		 Extractable SW =  98.57
+     		Biomass       =  17.91 		 LAI            =   0.16
+     		Stover N Conc =   0.34 		 Extractable SW =  98.57
 9 January 1998(Day of year=9), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
 9 January 1998(Day of year=9), Fertiliser: 
@@ -3882,72 +3882,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-8 February 1998(Day of year=39), Maize: 
-     Stage 6 FlagLeaf  DAS = 72
-     		Biomass       = 448.40 		 LAI            =   1.70
-     		Stover N Conc =   2.81 		 Extractable SW = 104.55
 9 February 1998(Day of year=40), Maize: 
-     Stage 7 Flowering  DAS = 73
-     		Biomass       = 465.12 		 LAI            =   1.68
-     		Stover N Conc =   2.84 		 Extractable SW = 100.78
-22 February 1998(Day of year=53), Maize: 
-     Stage 8 StartGrainFill  DAS = 86
-     		Biomass       = 647.89 		 LAI            =   1.65
-     		Stover N Conc =   3.00 		 Extractable SW =  84.72
-4 April 1998(Day of year=94), Maize: 
-     Stage 9 EndGrainFill  DAS = 127
-     		Biomass       = 831.15 		 LAI            =   0.87
-     		Stover N Conc =   2.09 		 Extractable SW = 104.72
-7 April 1998(Day of year=97), Maize: 
-     Stage 10 Maturity  DAS = 130
-     		Biomass       = 835.23 		 LAI            =   0.85
-     		Stover N Conc =   2.04 		 Extractable SW = 103.15
+     Stage 6 FlagLeaf  DAS = 73
+     		Biomass       = 442.46 		 LAI            =   1.64
+     		Stover N Conc =   2.60 		 Extractable SW = 103.25
+10 February 1998(Day of year=41), Maize: 
+     Stage 7 Flowering  DAS = 74
+     		Biomass       = 454.20 		 LAI            =   1.62
+     		Stover N Conc =   2.61 		 Extractable SW = 100.57
+23 February 1998(Day of year=54), Maize: 
+     Stage 8 StartGrainFill  DAS = 87
+     		Biomass       = 599.81 		 LAI            =   1.62
+     		Stover N Conc =   2.80 		 Extractable SW =  88.79
+5 April 1998(Day of year=95), Maize: 
+     Stage 9 EndGrainFill  DAS = 128
+     		Biomass       = 765.38 		 LAI            =   0.89
+     		Stover N Conc =   2.01 		 Extractable SW = 104.89
 8 April 1998(Day of year=98), Maize: 
-     Stage 11 HarvestRipe  DAS = 131
-     		Biomass       = 836.33 		 LAI            =   0.85
-     		Stover N Conc =   2.04 		 Extractable SW = 102.68
-8 April 1998(Day of year=98), Manager: 
+     Stage 10 Maturity  DAS = 131
+     		Biomass       = 768.61 		 LAI            =   0.88
+     		Stover N Conc =   2.00 		 Extractable SW = 103.48
+9 April 1998(Day of year=99), Maize: 
+     Stage 11 HarvestRipe  DAS = 132
+     		Biomass       = 768.61 		 LAI            =   0.88
+     		Stover N Conc =   2.00 		 Extractable SW = 103.02
+9 April 1998(Day of year=99), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 73 		 Maturity (DAS)          = 130
-     Flowering day         = 40 		 Maturity day            = 97
+     Flowering (DAS)       = 74 		 Maturity (DAS)          = 131
+     Flowering day         = 41 		 Maturity day            = 98
      Maximum LAI           = 1.7 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 8363.3
-     Green above ground biomass    (kg/ha) = 7297.4
-     Senesced above ground biomass (kg/ha) = 1065.9
-     Stover (kg/ha)        = 4612.2 	 Grain yield (kg/ha)     = 3751.1
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 4439.2
-     Weight 1000 grains(g) = 243.2 		 Grains/m^2              = 1542.2
-     Grains/head           = 367.2
-     Grain N percent    (%)     =      0.37 	 Grain N            (kg/ha) =    13.95
-     Total N content    (kg/ha) =     34.32 	 Senesced N content (kg/ha) =    11.75
-     Green N content    (kg/ha) =     16.24
-     Grain P percent    (%)     =      0.14 	 Grain P uptake     (kg/ha) =     5.15
-     Total P content    (kg/ha) =      6.64 	 Senesced P content (kg/ha) =     0.79
-     Green P content    (kg/ha) =      2.43 
+     Total above ground biomass    (kg/ha) = 7686.1
+     Green above ground biomass    (kg/ha) = 6650.0
+     Senesced above ground biomass (kg/ha) = 1036.1
+     Stover (kg/ha)        = 4683.7 	 Grain yield (kg/ha)     = 3002.4
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3553.1
+     Weight 1000 grains(g) = 231.3 		 Grains/m^2              = 1298.1
+     Grains/head           = 309.1
+     Grain N percent    (%)     =      0.44 	 Grain N            (kg/ha) =    13.08
+     Total N content    (kg/ha) =     33.05 	 Senesced N content (kg/ha) =    11.13
+     Green N content    (kg/ha) =     17.26
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.02
+     Total P content    (kg/ha) =      7.15 	 Senesced P content (kg/ha) =     0.78
+     Green P content    (kg/ha) =      8.21 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        0.9
         End of juvenile     to Floral initiation         0.9          0.9        0.8
-        Floral initiation   to Flag leaf                 1.0          1.0        0.9
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.5
-        Start grain fill    to End grain fill            1.0          1.0        0.3
+        Floral initiation   to Flag leaf                 1.0          1.0        0.8
+        Flag leaf           to Flowering                 1.0          1.0        0.8
+        Flowering           to Start grain fill          0.9          0.9        0.4
+        Start grain fill    to End grain fill            1.0          1.0        0.2
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               3751.10		    0.00
-                         N  (kg/ha) =                 13.95		    0.00
+                         DM (kg/ha) =               3002.35		    0.00
+                         N  (kg/ha) =                 13.08		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4612.19		 1740.56
-                         N  (kg/ha) =                 20.37		    7.62
-                         P  (kg/ha) =                  1.49		    1.73
-8 May 1998(Day of year=128), Manager: 
+                         DM (kg/ha) =               4683.73		 1817.53
+                         N  (kg/ha) =                 19.97		    8.42
+                         P  (kg/ha) =                  7.14		    1.85
+9 May 1998(Day of year=129), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-8 May 1998(Day of year=128), SurfaceOM: 
+9 May 1998(Day of year=129), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
@@ -4018,18 +4018,18 @@ Title                  = p80N13
 22 November 1998(Day of year=326), Maize: 
      Stage 2 Germination  DAS = 1
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 102.68
+     		Stover N Conc =   0.00 		 Extractable SW = 106.02
 25 November 1998(Day of year=329), Maize: 
      Stage 3 Emergence  DAS = 4
      		Biomass       =   0.00 		 LAI            =   0.00
-     		Stover N Conc =   0.00 		 Extractable SW = 107.56
+     		Stover N Conc =   0.00 		 Extractable SW = 107.89
 15 December 1998(Day of year=349), Maize: 
      Stage 4 EndOfJuvenile  DAS = 24
-     		Biomass       =   9.72 		 LAI            =   0.11
-     		Stover N Conc =   0.22 		 Extractable SW = 107.50
+     		Biomass       =   9.67 		 LAI            =   0.11
+     		Stover N Conc =   0.22 		 Extractable SW = 107.52
 18 December 1998(Day of year=352), Maize: 
      Stage 5 FloralInitiation  DAS = 27
-     		Biomass       =  14.97 		 LAI            =   0.16
+     		Biomass       =  14.88 		 LAI            =   0.16
      		Stover N Conc =   0.34 		 Extractable SW = 105.88
 2 January 1999(Day of year=2), Manager: 
      Manager sending message :- fertiliser apply  amount = 6.25, type = nh4no3, depth = 5
@@ -4038,72 +4038,72 @@ Title                  = p80N13
    - Reading Fertiliser Type Parameters
          6.25 of ammonium nitrate (nh4no3)
                                          added at depth    5.00 (layer   1)
-6 February 1999(Day of year=37), Maize: 
-     Stage 6 FlagLeaf  DAS = 77
-     		Biomass       = 404.53 		 LAI            =   1.37
-     		Stover N Conc =   2.61 		 Extractable SW = 131.00
-7 February 1999(Day of year=38), Maize: 
-     Stage 7 Flowering  DAS = 78
-     		Biomass       = 412.76 		 LAI            =   1.38
-     		Stover N Conc =   2.64 		 Extractable SW = 130.83
-22 February 1999(Day of year=53), Maize: 
-     Stage 8 StartGrainFill  DAS = 93
-     		Biomass       = 561.40 		 LAI            =   1.37
-     		Stover N Conc =   2.87 		 Extractable SW = 131.09
-9 April 1999(Day of year=99), Maize: 
-     Stage 9 EndGrainFill  DAS = 139
-     		Biomass       = 744.68 		 LAI            =   0.70
-     		Stover N Conc =   2.15 		 Extractable SW = 111.62
-13 April 1999(Day of year=103), Maize: 
-     Stage 10 Maturity  DAS = 143
-     		Biomass       = 748.57 		 LAI            =   0.69
-     		Stover N Conc =   2.11 		 Extractable SW = 106.61
-14 April 1999(Day of year=104), Maize: 
-     Stage 11 HarvestRipe  DAS = 144
-     		Biomass       = 749.31 		 LAI            =   0.68
-     		Stover N Conc =   2.11 		 Extractable SW = 106.03
-14 April 1999(Day of year=104), Manager: 
+11 February 1999(Day of year=42), Maize: 
+     Stage 6 FlagLeaf  DAS = 82
+     		Biomass       = 395.12 		 LAI            =   1.35
+     		Stover N Conc =   2.29 		 Extractable SW = 119.89
+12 February 1999(Day of year=43), Maize: 
+     Stage 7 Flowering  DAS = 83
+     		Biomass       = 401.00 		 LAI            =   1.35
+     		Stover N Conc =   2.30 		 Extractable SW = 116.98
+27 February 1999(Day of year=58), Maize: 
+     Stage 8 StartGrainFill  DAS = 98
+     		Biomass       = 505.45 		 LAI            =   1.35
+     		Stover N Conc =   2.58 		 Extractable SW = 120.60
+15 April 1999(Day of year=105), Maize: 
+     Stage 9 EndGrainFill  DAS = 145
+     		Biomass       = 649.44 		 LAI            =   0.86
+     		Stover N Conc =   2.14 		 Extractable SW = 103.34
+19 April 1999(Day of year=109), Maize: 
+     Stage 10 Maturity  DAS = 149
+     		Biomass       = 654.00 		 LAI            =   0.83
+     		Stover N Conc =   2.13 		 Extractable SW = 100.79
+20 April 1999(Day of year=110), Maize: 
+     Stage 11 HarvestRipe  DAS = 150
+     		Biomass       = 654.00 		 LAI            =   0.83
+     		Stover N Conc =   2.13 		 Extractable SW = 100.32
+20 April 1999(Day of year=110), Manager: 
      Manager sending message :- maize harvest
      
      Harvest
-     Flowering (DAS)       = 78 		 Maturity (DAS)          = 143
-     Flowering day         = 38 		 Maturity day            = 103
+     Flowering (DAS)       = 83 		 Maturity (DAS)          = 149
+     Flowering day         = 43 		 Maturity day            = 109
      Maximum LAI           = 1.4 		 Number of leaves        = 17.4
-     Total above ground biomass    (kg/ha) = 7493.1
-     Green above ground biomass    (kg/ha) = 6417.9
-     Senesced above ground biomass (kg/ha) = 1075.2
-     Stover (kg/ha)        = 4833.2 	 Grain yield (kg/ha)     = 2659.9
-     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 3147.8
-     Weight 1000 grains(g) = 240.3 		 Grains/m^2              = 1106.8
-     Grains/head           = 263.5
-     Grain N percent    (%)     =      0.48 	 Grain N            (kg/ha) =    12.75
-     Total N content    (kg/ha) =     33.88 	 Senesced N content (kg/ha) =    12.48
-     Green N content    (kg/ha) =     16.20
-     Grain P percent    (%)     =      0.23 	 Grain P uptake     (kg/ha) =     6.20
-     Total P content    (kg/ha) =      7.71 	 Senesced P content (kg/ha) =     0.80
-     Green P content    (kg/ha) =      2.33 
+     Total above ground biomass    (kg/ha) = 6540.0
+     Green above ground biomass    (kg/ha) = 5579.2
+     Senesced above ground biomass (kg/ha) = 960.8
+     Stover (kg/ha)        = 5478.7 	 Grain yield (kg/ha)     = 1061.2
+     Grain % water content = 15.5 		 Grain yield wet (kg/ha) = 1255.9
+     Weight 1000 grains(g) = 236.4 		 Grains/m^2              = 448.9
+     Grains/head           = 106.9
+     Grain N percent    (%)     =      0.90 	 Grain N            (kg/ha) =     9.58
+     Total N content    (kg/ha) =     30.86 	 Senesced N content (kg/ha) =    10.68
+     Green N content    (kg/ha) =     19.56
+     Grain P percent    (%)     =      0.00 	 Grain P uptake     (kg/ha) =     0.00
+     Total P content    (kg/ha) =      6.19 	 Senesced P content (kg/ha) =     0.80
+     Green P content    (kg/ha) =      7.83 
      
      Average Stress Indices:                          Water Photo  Water Expan  N Photo
         Emergence           to End of juvenile           1.0          1.0        1.0
         End of juvenile     to Floral initiation         1.0          1.0        1.0
-        Floral initiation   to Flag leaf                 1.0          1.0        0.8
-        Flag leaf           to Flowering                 1.0          1.0        1.0
-        Flowering           to Start grain fill          0.9          0.9        0.6
+        Floral initiation   to Flag leaf                 1.0          1.0        0.7
+        Flag leaf           to Flowering                 0.9          0.9        0.4
+        Flowering           to Start grain fill          1.0          1.0        0.4
         Start grain fill    to End grain fill            1.0          1.0        0.3
      
      Crop harvested.
         Organic matter removed from system:-      From Tops		From Roots
-                         DM (kg/ha) =               2659.86		    0.00
-                         N  (kg/ha) =                 12.75		    0.00
+                         DM (kg/ha) =               1061.22		    0.00
+                         N  (kg/ha) =                  9.58		    0.00
      Manager sending message :- maize end_crop
      Crop ended.
      Organic matter from crop:-      Tops to surface residue	 Roots to soil FOM
-                         DM (kg/ha) =               4833.25		 1637.97
-                         N  (kg/ha) =                 21.13		    7.54
-                         P  (kg/ha) =                  1.50		    1.63
-14 May 1999(Day of year=134), Manager: 
+                         DM (kg/ha) =               5478.74		 2396.38
+                         N  (kg/ha) =                 21.27		    8.97
+                         P  (kg/ha) =                  6.19		    2.44
+20 May 1999(Day of year=140), Manager: 
      Manager sending message :- surfaceom tillage  type = user_defined, f_incorp = 0.50, tillage_depth = 0 (mm)
-14 May 1999(Day of year=134), SurfaceOM: 
+20 May 1999(Day of year=140), SurfaceOM: 
      Residue removed using user_defined
                                              Fraction Incorporated =     0.50
                                              Incorporated Depth    =     0.00
