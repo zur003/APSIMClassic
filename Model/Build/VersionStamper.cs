@@ -24,7 +24,7 @@ class VersionStamper
                 throw new Exception("Usage: VersionStamper Directory=c:\\Apsim [Increment=Yes] [RevisionNumber=4191]");
 
             string RevisionNumber = "";
-			if (Macros.ContainsKey("RevisionNumber"))
+			if (Macros.ContainsKey("RevisionNumber") && Macros["RevisionNumber"] != "%REVISION_NUMBER%")
 				RevisionNumber = Macros["RevisionNumber"];
 			else
 			{
@@ -80,7 +80,8 @@ class VersionStamper
             Out.WriteLine("using System.Reflection;");
             Out.WriteLine("[assembly: AssemblyFileVersion(\"" + Major.ToString() + "." +
                                                                 Minor.ToString() + "." +
-                                                                "0.0\")]");
+                                                                RevisionNumber + "." +
+																"0\")]");
             Out.Close();
 
             // Write the VersionInfo.vb
@@ -88,7 +89,8 @@ class VersionStamper
             Out.WriteLine("Imports System.Reflection");
             Out.WriteLine("<Assembly: AssemblyFileVersion(\"" + Major.ToString() + "." +
                                                                 Minor.ToString() + "." +
-                                                                "0.0\")>");
+                                                                RevisionNumber + "." +
+																"0\")>");
             Out.Close();
 
             // Write the VersionInfo.cpp
